@@ -1,0 +1,45 @@
+title: The Modding Bungalo
+description: The Modding Bungalo wiki for guides on their lists as well as other modding related content
+theme: just-the-docs
+color_scheme: bungalo-dark
+logo: "/assets/themoddingbungalo.png"
+favicon_ico: "/assets/favicon.png"
+url: https://github.com/gouldsonium/the-modding-bungalo
+
+aux_links:
+  JOIN THE DISCORD: https://discord.gg/bungalo
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2024 Gouldsonium"
+
+collections:
+  lists:
+    permalink: "/:collection/:path/"
+    output: true
+  ngvo:
+    permalink: "/:collection/:path/"
+    output: true
+  modding_guides:
+    permalink: "/:collection/:path/"
+    output: true
+  other:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    lists:
+      name: Lists
+      nav_fold: false 
+    ngvo:
+      name: NGVO
+      nav_fold: true  
+    modding_guides:
+      name: Modding Guides
+      nav_fold: true
+    other:
+      name: Other
+      nav_fold: true

@@ -1,0 +1,24 @@
+@import "./color_schemes/dark";
+
+$link-color: #ffdf58;
+$nav-child-link-color: #ffffff;
+$sidebar-color: #180532;
+$body-background-color: #180532;
+$body-text-color: #e6e6e6;
+$body-heading-color: #FFFFFF;
+$code-background-color: #462B53;
+// $base-button-color: #ffdf58;
+$btn-primary-color: #ffdf58;
+$feedback-color: darken(#180532, 3%);
+
+.youtube-container{
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  height: auto;
+}
+th{
+  background-color: #ffdf58;
+}
