@@ -51,5 +51,36 @@ A great change is the updates to existing entries to match the next-gen graphics
 
 ![image](https://staticdelivery.nexusmods.com/mods/1704/images/125957/125957-1722744370-339253458.png)
 
+Another great addition in this patch is the new creatures added. As mentioned there are over 100 creatures added but these aren't entirely new *creatures* added by mods but rather new entries for unique enemies you can encounter. Including:
+- Legendary Dragons
+- Legendary Creatures (Requiem rare creatures)
+- Legendary Draugr
+- Legendary Vampires (New in v1.3!)
+- Named Dragon Priests
+- Extra Creature variants
+- CC pets
+
+![image](https://i.imgur.com/JJNsWwu.png)
+
+And some creatures added by quest mods & other mods integrated:
+- Attacko's Daedra
+- Clockwork
+- Project AHO
+- Beyond Skyrim - Bruma
+- Sirenroot - Deluge of Deceit 
+- Journey to Baan Malur and Morrowind 
+- Siege at Icemoth
+
+## How to use
+To use the Bestiary there's two things you need to know.
+
+1. **How to view the Bestiary**
+By default its `K` on the keyboard, dudestandard has added a shortcut for controller as well: `LB + dpad left`
+
+2. **How to add to the Bestiary**
+Simply activating peaceful creatures will add them to the Bestiary while enemy types are added after you have defeated one.
+
+Additionally reading books like *Bestiary of Skyrim* will unlock entries.
+
 ## Learn more
 If you'd like to learn more, checkout the patch mod on the Nexus [here](https://www.nexusmods.com/skyrimspecialedition/mods/125957).
