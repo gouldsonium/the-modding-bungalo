@@ -14,19 +14,34 @@ Lorerim 2.0 includes a plethora of followers and companions to accompany you on 
 ## Modded Followers
 
 ### Auri
+![image](https://i.imgur.com/IGfnI88.png)
 Auri is a female Bosmer archer located in her home near Falkreath. She has nearly 1,000 lines of dialogue, featuring interactions, scenes, and banter with other followers. Auri also has an approval system, allowing her to open up about herself and her past as you build your relationship.
 
+[View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/11278){: .btn }
+
 ### Inigo
+![image](https://staticdelivery.nexusmods.com/mods/1704/images/1461-0-1479957014.jpg)
 Inigo, a male Khajiit, can be found in the Riften Jail. He excels in archery and sneak, making him a versatile companion for any class. Inigo is known for his extensive dialogue, interactions with other followers, and commentary on your choices and achievements.
 
+[View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1461){: .btn }
+
 ### Remiel
-Remi, a female Breton, is a follower well-suited for long playthroughs with over 4,500 lines of dialogue. She has a strong interest in the Dwemer, with a rich backstory and clear goals. You can find Remi at the Silver-Blood Inn in Markarth, where she's looking to investigate a nearby Dwemer ruin. 
+![image](https://staticdelivery.nexusmods.com/mods/1704/images/51874/51874-1628817042-1387871072.png)
+Remi, a female Breton, is a follower well-suited for long playthroughs with over 4,500 lines of dialogue. She has a strong interest in the Dwemer, with a rich backstory and clear goals. You can find Remi at the Silver-Blood Inn in Markarth, where she's looking to investigate a nearby Dwemer ruin.
+
+[View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/51874){: .btn }
 
 ### Xelzaz
+![image](https://i.imgur.com/y6ZR5RX.png)
 Xelzaz, an Argonian follower, is located near the Southern Morrowind gate, east of Dayspring Canyon. With over 7,000 lines of dialogue, Xelzaz offers unique features and quests. He combines the best features of other followers with additional layers of depth.
 
+[View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/62893){: .btn }
+
 ### The Welkynar Knight
+![image](https://staticdelivery.nexusmods.com/mods/1704/images/89510/89510-1681827671-1376914483.png)
 The Welkynar Knight is both a follower and a quest mod that involves aiding an elven knight in a battle against the Thalmor. The quest features choice-based consequences and begins automatically upon receiving a letter from a courier.
+
+[View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/89510){: .btn }
 
 ## Vanilla Followers
 
