@@ -22,7 +22,9 @@ On the left-hand side of the screen, you will see all Keyboard Profiles and an *
 The 'Lorerim' profile should now be downloaded and activated! To check if it's installed correctly, you can either:
 
 - Look at your keyboard to see if the RGB color profile has been applied, and/or
-- Check FN Layer 1 to make sure it matches the Guide's thumbnail.
+- Check FN Layer 1 to make sure it matches as shown below.
+
+![Image]({{ site.baseurl }}/assets/lorerim/keyboard.png)
 
 ---
 
