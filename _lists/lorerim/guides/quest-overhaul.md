@@ -19,7 +19,7 @@ There are 3 major questlines in Skyrim Special Edition: the main quest, the Dawn
 There are some alternate routes available in the main quest now:
 - **Storm the Thalmor Embassy** allows you to skip the "party" and go straight to the Thalmor Embassy during "Diplomatic Immunity".
 - **Defeat the Dragon Cult** expands the later half of the main quest, giving the Dragonborn a reason to avoid facing Alduin until all the Dragon Priests are dead.
-- **Paarthurnax - Quest Expansion** provides an option where you no longer need to kill Paarthurnax. [Read more about it here](https://www.nexusmods.com/skyrimspecialedition/mods/80974).
+- **Paarthurnax - Quest Expansion** provides an option where you no longer need to kill Paarthurnax. [Read more about it here](https://www.nexusmods.com/skyrimspecialedition/mods/51711).
 
 ### Dawnguard
 
