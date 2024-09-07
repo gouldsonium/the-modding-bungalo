@@ -23,7 +23,7 @@ An Oblivion modlist, A Painted World drastically upgrades the visuals of this ga
 </div>
 
 ## Download the Wabbajack file
-[Download](https://drive.google.com/file/d/1tRgnz5mbyVS6mla-lGJybCYEGvxnsCMj/view){: .btn }
+[Download](https://drive.google.com/file/d/1e-W3CEno3MMLzqfszyrbcEH_pCK0BO7W/view?usp=drive_link){: .btn }
 
 ## For support visit
 [The Bungalo Discord](https://discord.gg/bungalo){: .btn }

@@ -32,7 +32,7 @@ You will need a vanilla copy of Oblivion GOTY Deluxe edition from [Steam](https:
 
 Download the wabbajack file here, run the Wabbajack.exe and select download from disk.
 
-[Download Wabbajack File](https://drive.google.com/file/d/1tRgnz5mbyVS6mla-lGJybCYEGvxnsCMj/view){: .btn }
+[Download Wabbajack File](https://drive.google.com/file/d/1e-W3CEno3MMLzqfszyrbcEH_pCK0BO7W/view?usp=drive_link){: .btn }
 
 Then navigate to where you installed the .wabba file. Select a folder to install the list to (Modding\APW would be my suggestion).
 
