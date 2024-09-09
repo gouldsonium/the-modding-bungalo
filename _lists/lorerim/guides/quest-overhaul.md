@@ -23,7 +23,7 @@ There are some alternate routes available in the main quest now:
 
 ### Dawnguard
 
-The Dawnguard questline has been delayed thanks to **Sensible Quest Prerequisites**. With this mod, the quest "Laid to Rest" is now a prerequisite for starting Dawnguard. If you've never done this quest before, it’s a side quest in Morthal revolving around figuring out the story behind a burned-down house.
+The Dawnguard questline has been delayed thanks to **Sensible Quest Prerequisites**. With this mod, the quest "Laid to Rest" is now a prerequisite for starting Dawnguard. If you've never done this quest before, it’s a side quest in Morthal revolving around figuring out the story behind a burned-down house. **Note**: Make sure to enter the burned down house to start the quest.
 
 Additionally, curing vampirism has been expanded for both the Dragonborn and Serana:
 - **Seeking The Cure** repurposes "Rising At Dawn" into a non-repeatable, story-focused quest where Falion's ritual to cure your vampirism fails.
