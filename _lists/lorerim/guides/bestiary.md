@@ -74,10 +74,19 @@ And some creatures added by quest mods & other mods integrated:
 ## How to use
 To use the Bestiary there's two things you need to know.
 
-1. **How to view the Bestiary**
+### 1. How to view the Bestiary
+To open the new Bestiary menu, press K by default. The hotkey can be changed in the mod's INI file.
+
+On the left of the menu, you can browse the different categories and their associated creatures. You can browse this menu either with keyboard navigation keys, with the mouse or with joysticks if using a gamepad.
+
+On the top of the menu, you can switch between a creature's variants by pressing Q and R. If you are playing with a gamepad, press LB and RB to switch between variants. Alternatively, you can also click on the arrows next to the variants' names.
+
+On the right of the menu, if the description is too long to fit in the text box, a scrolling bar will appear. If you are playing with mouse and keyboard, you can either use the mouse scroll or click and drag the bar to scroll the text. You can also use the Page Up and Page Down keys. If you are using a controller, use LT and RT to scroll the description.
+
+**Short Version**
 By default its `K` on the keyboard, dudestandard has added a shortcut for controller as well: `LB + dpad left`
 
-2. **How to add to the Bestiary**
+### 2. How to add to the Bestiary
 Simply activating peaceful creatures will add them to the Bestiary while enemy types are added after you have defeated one.
 
 Additionally reading books like *Bestiary of Skyrim* will unlock entries.
