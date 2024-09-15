@@ -36,7 +36,7 @@ Wabbajack Modlist Installer by biggie_boss.
 
 Owing to the need to clean master files and certain errors with Wabbajack, NGVO only supports **English Steam** versions of Skyrim Special Edition. **GOG and other Languages are not supported**.
 
-:warning: :exclamation: **NGVO REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON** :exclamation: :warning:
+**NGVO REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON** 
 
 ***
 
@@ -66,7 +66,7 @@ Space required: ~150GB Download Size ~100GB install Size ~250GB Total
 
 See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
 
-:warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
+**NOTE**: AMD RX 580 and older cards are **not supported**.
 
 ## Installation
 
@@ -95,7 +95,7 @@ Prior to installing NGVO, please complete the following steps.
 
 Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
-:warning: **NOTE**: NGVO will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
+**NOTE**: NGVO will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**.
 
 #### Downloading and Installing NGVO
 
