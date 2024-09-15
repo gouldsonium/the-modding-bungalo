@@ -116,8 +116,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Could not download x:
   - Big files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
-    - **Make sure you have downloaded all the Paid AE update content!**
-  - Make sure you have the Creation Kit installed. Go back to [Pre-Installation](#pre-installation) and read it properly this time.
 
 - x is not a whitelisted download:
 
@@ -171,7 +169,7 @@ Simply delete the folder, and you have uninstalled it.
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- Althro & Ylikollikas for answering all my questions.
+- Ghoul smasher Biggie Forn and LaLa for being super helpful
+- WhisperDealer for the website
 - Halgari and everyone on the WJ Team - Wabbajack is awesome and so are you.
 - All of the amazing mod authors whose work made this modlist possible.
-
