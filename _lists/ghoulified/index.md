@@ -26,7 +26,16 @@ Prior to installing Ghoulifed Reality, please complete the following steps.
 For full installation instructions, checkout the [Read Me](/lists/ghoulified/read-me/)
 
 ## Showcase
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp8-XTgxJoI?si=aD5NOrtl6xlHfYaa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="youtube-container">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    src="https://www.youtube.com/embed/Lp8-XTgxJoI?si=aD5NOrtl6xlHfYaa" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## For support visit
 [The Bungalo Discord](https://discord.gg/bungalo){: .btn }
