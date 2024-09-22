@@ -83,5 +83,3 @@ Please checkout these FAQs before posting your question to the discord
 - At the end of the day, LoreRim has mid-spec requirements for the normal profile and high-end for Ultra.
 - If you don't meet these, I can't do much for you unfortunately.
 - You **ABSOLUTELY** must meet the minimum requirements and install the list on a **SOLID STATE DRIVE**.
-
-Note: As a low spec user myself, I would recommend Wildlander as an alternate Requiem list for lower specs.
