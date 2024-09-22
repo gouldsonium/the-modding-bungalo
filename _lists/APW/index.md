@@ -5,10 +5,12 @@ nav_order: 3
 has_children: true
 has_toc: true
 ---
-# A Painted World
-An Oblivion modlist, A Painted World drastically upgrades the visuals of this game while overhauling key aspects of the game. 
+![Image]({{ site.baseurl }}/assets/apw/logo.png)
+
+An Oblivion modlist, A Painted World drastically upgrades the visuals of this game while overhauling key aspects of the game.
 
 **Made by Sasquatch**
+
 ## Showcase from ItsDeepz
 
 <div class="youtube-container">
@@ -21,9 +23,3 @@ An Oblivion modlist, A Painted World drastically upgrades the visuals of this ga
     allowfullscreen>
   </iframe>
 </div>
-
-## Download the Wabbajack file
-[Download](https://drive.google.com/file/d/1e-W3CEno3MMLzqfszyrbcEH_pCK0BO7W/view?usp=drive_link){: .btn }
-
-## For support visit
-[The Bungalo Discord](https://discord.gg/bungalo){: .btn }
