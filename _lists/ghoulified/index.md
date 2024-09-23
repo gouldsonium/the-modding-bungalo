@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 has_toc: true # toc stands for table of content
 ---
-# Ghoulified Reality
+![Image]({{ site.baseurl }}/assets/ghoulified/logo.png)
 Beautiful Graphics and 3BFTweaks gameplay. Ghoulified Reality is a modlist for The Elder Scrolls V: Skyrim Special Edition that focuses on completely overhauling the game's visuals and gameplay to create a more challenging and immersive experience. 
 
 **Made by Ghoulifed**
