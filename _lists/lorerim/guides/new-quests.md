@@ -70,9 +70,3 @@ There are many other quest mods that have been added. It's worth mentioning that
 Additionally, two mod authors are adding small quest mods that greatly enhance Skyrim:
 - **Nimwraith**: [Profile link](https://next.nexusmods.com/profile/nimwraith/mods?gameId=1704).
 - **TheOscar0** (also the author of *Meridia's Order*): [Profile link](https://next.nexusmods.com/profile/TheOscar0/mods?gameId=1704).
-
-It is also worth mentioning **Saints & Seducers Extended Cut** 
-
-![image](https://staticdelivery.nexusmods.com/mods/1704/images/72772/72772-1662761619-1874272167.png)
-
-But this mentioned as part of out [Quest Overhauls](https://themoddingbungalo.com/lists/lorerim/guides/quest-overhaul/#creation-club) Guide.

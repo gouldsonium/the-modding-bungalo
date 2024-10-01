@@ -5,7 +5,7 @@ parent: Guides
 grand_parent: Lorerim
 nav_order: 5
 ---
-# Lorerim Quest Overhauls
+# Quest Overhauls
 ###### By WhisperDealer
 
 Lorerim overhauls several quests from the base game, DLCs, and Creation Club. This guide will help indicate how to start them.
@@ -63,25 +63,6 @@ Each Daedric Prince's quest has been expanded to provide actual player choice, n
 
 At the time of writing, JaySerpa is arguably the best modder for Skyrim on Nexus. In his series of mods, he has expanded several side quests, providing more content and alternate routes/endings. [Check out his profile here](https://www.nexusmods.com/skyrimspecialedition/mods/51711).
 
-## Creation Club
-
-Lorerim requires the Anniversary Edition upgrade, which includes all Creation Club content. These have also been expanded in Lorerim:
-
-- **Skyrim Extended Cut - Saints and Seducers** is a huge DLC-sized expansion to the Saints & Seducers content included in the AE update. To begin the mod questline, you must be at least level 20 and have completed "The Mind of Madness". This quest mod also affects the following Creation Club content: Shadowrend, Ruin's Edge, and the Staff of Sheogorath.
-
-- Some content was removed to be more lore-friendly. [Link here](https://www.nexusmods.com/skyrimspecialedition/mods/111995).
-
-- Some Creation Club homes now have additional requirements to unlock them through this mod. [Link here](https://www.nexusmods.com/skyrimspecialedition/mods/116032).
-
-- "Here, it's all in this note": These quests have been expanded with the **Voiced Narrative series by GTheGenerous**. [Profile link here](https://next.nexusmods.com/profile/GTheGenerous/mods?gameId=1704).
-
-- JaySerpa also expanded on **The Gift of Saturalia** and **Simple Fishing Overhaul**. Click the link shared above to find these mods and read more.
-
-Other Creation Club quests that have been expanded or changed for both balance and fun include:
-- **Morihaus' Refuge**: [Link here](https://www.nexusmods.com/skyrimspecialedition/mods/68558).
-- **Knight of the North**: [Link here](https://www.nexusmods.com/skyrimspecialedition/mods/45869).
-- **The Cause Tweaks**: [Link here](https://www.nexusmods.com/skyrimspecialedition/mods/112918).
-
-Items added by Creation Club, like weapons and armor, have been distributed in an immersive and balanced way.
+## And much more
 
 There are many other quests in Skyrim that have been expanded in Lorerim, such as **The Golden Claw**, **The Icerunner**, and many more. But I'll let you discover these yourself.
