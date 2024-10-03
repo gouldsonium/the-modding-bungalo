@@ -91,12 +91,31 @@ You can begin this quest by finding a bearded old trader camping outside of Dawn
 
 ## Reduced Cut
 
-Content pending
+Some of the quests from CC can be prone to bugs or just unimmersive. Some mods with the label *reduced cut* remove the quests while keeping the added content. In Lorerim, 2 creations are reduced:
 
-[Bow of Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/81188)
+[Bow of Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/81188) can be found as static loot as part of the Raven Rock/Morag Tong questline.
 
-[Civil War Champions](https://www.nexusmods.com/skyrimspecialedition/mods/94999)
+[Civil War Champions](https://www.nexusmods.com/skyrimspecialedition/mods/94999) - reduced cut removes the "Battle of Champions" quest and makes it so the player receives either champion set just before the final siege on Windhelm or Solitude instead.  Now you'll receive champion's armor once you have proven yourself and just in time to rub it in Tullius' or Ulfric's face.
 
-## Creation Club Home Requirements
+## Creation Club Homes
 
-Content pending - [Mod page here](https://www.nexusmods.com/skyrimspecialedition/mods/116032)
+Homes in CC are often easily accessible early in your playthrough which is unbalanced in Lorerim. Several mods have been implemented for **immersion**.
+
+[Creation Club Home Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/116032)
+![image](https://staticdelivery.nexusmods.com/mods/1704/images/116032/116032-1712435336-1682659034.png)
+
+*One of the biggest weaknesses of the CC homes is being too accessible, too early into a playthrough. This mod aims to fix that by adding lore friendly requirements to several of the homes to ensure that players can't access them immediately.*
+
+**Bloodchill Manor:** For this home, you'll need to complete the "Bloodline" quest in the Dawnguard DLC before being receiving your invitation to dinner. The quest will then proceed normally.
+
+**Gallows Hall:** For this home, Gallows Hall will remain locked until you've completed the Conjuration Ritual Spell quest. Afterwards, the entrance will open and the quest will progress normally.
+
+**Hendraheim** uses this mod which has been patched to work with [CC Hendraheim - Tweaks and Enhancements](https://www.nexusmods.com/skyrimspecialedition/mods/98688). This makes several changes to home and how you get it. Mainly being that after defeating Eydvina Shield-Hearth, you have to buy the home instead of just being handed the keys.
+
+**Myrwatch** also gets rebalanced with [CC Myrwatch - Tweaks and Enhancements](https://www.nexusmods.com/skyrimspecialedition/mods/97659/) which makes the home purchasable and only after you convince Tolfdir. Checkout the mod page for more details.
+
+**Goldenhills Plantation** from the Farming creation has also been improved upon with [CC Farming - Tweaks Enhancements and Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/69029). Before starting the quest, you can find the family still alive, with some custom dialogue lines and AI packages. To start the quest, you need to be level 15 (customizable) and talk to an innkeeper in either Rorikstead or Whiterun and ask them: "Are there any problems around town that need handling?"
+
+It's worth noting the Tweaks and Enhancements mods are all by the same author [AndrealphusVIII](https://next.nexusmods.com/profile/AndrealphusVIII/about-me?gameId=1704) who has many more great mods. I'd recommend checking out the profile as many more of their mods are in Lorerim.
+
+

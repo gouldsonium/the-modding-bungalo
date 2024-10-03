@@ -1,8 +1,9 @@
 ---
 layout: default
 title: SSO
-nav_order: 4
+nav_order: 1
 has_children: false
+parent: Small Lists
 ---
 # SSO - Simple Skyrim Overhaul
 A complete overhaul to Skyrim but with a twist, this list was limited to 200 mods.
