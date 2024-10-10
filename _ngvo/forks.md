@@ -10,7 +10,10 @@ As a visual only list NGVO, many modders use it as a base to build their own lis
 ## Ghoulified Reality
 Ghoulified Reality is a modlist that is also hosted in the Modding Bungalo. Look under **LISTS** or checkout their website below!
 
-[Visit Website](https://ghoulified.netlify.app/){: .btn }
+[Visit Website](https://ghoulified.themoddingbungalo.com/){: .btn }
+
+## Rovaan
+Rovaan is a modlist that is also hosted in the Modding Bungalo. Look under **LISTS**
 
 ## OCM
 OCM stands for Ostim Community Modlist. What is Ostim? Well...click the link to the readme below. Or checkout Biggie Boss's video on the list.

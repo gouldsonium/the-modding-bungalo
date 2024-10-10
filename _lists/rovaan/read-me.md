@@ -1,19 +1,19 @@
 ---
 layout: default
 title: Read Me
-parent: Ghoulified
+parent: Rovaan
 nav_order: 1
 ---
-# Ghoulified Reality - A Modern 3BFTweaks List
-Wabbajack Modlist Installer by **Ghoulified**.
+#  Rovaan - a Hardcore Wabbajack list
+Wabbajack Modlist Installer by **Sentarus**.
 
-![Image]({{ site.baseurl }}/assets/ghoulified/cover.png)
+![Image](https://staticdelivery.nexusmods.com/mods/1704/images/130579/130579-1728546266-1986888182.png)
 
 <table style="border: none;">
 <tr>
-<td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/121811">Nexus Page</a></td>
+<td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/130579">Nexus Page</a></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>	
-<!-- <td><a href="https://loadorderlibrary.com/lists/next-generation-visual-overhaul-Ghoulified Reality">Load Order Library (Ghoulified Reality for now)</a></td> -->
+<!-- <td><a href="https://loadorderlibrary.com/lists/next-generation-visual-overhaul-Rovaan">Load Order Library (Rovaan for now)</a></td> -->
 <td><a href="https://discord.gg/Tb5ETzBYjd"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
 </tr>
 </table>
@@ -28,25 +28,25 @@ Wabbajack Modlist Installer by **Ghoulified**.
 
 ## Preamble
 
-Ghoulified Reality is a modlist for The Elder Scrolls V: Skyrim Special Edition that focuses on completely overhauling the game's visuals and gameplay to create a more challenging and immersive experience. A fork of NGVO which is a visual only modlist, Ghoulified use Requiem to enhance the game for a more challenging and strategic experience, from combat to character progression. What separates this list from other Requiem lists is Ghoulified uses 3BFTweaks which makes the world more dangerous while still maintaining a sense of fairness and balance.
+Rovaan is a modlist for The Elder Scrolls V: Skyrim Special Edition that focuses on completely overhauling the game's visuals and gameplay to create a more challenging and immersive experience. A fork of the NGVO list which is a visual only modlist, Rovaan uses **CONTENT HERE**
 
 ## System Requirements
 
 ### Disclaimer
 
-Owing to the need to clean master files and certain errors with Wabbajack, Ghoulified Reality only supports **English Steam** versions of Skyrim Special Edition. **GOG and other Languages are not supported**.
+Owing to the need to clean master files and certain errors with Wabbajack, Rovaan only supports **English Steam** versions of Skyrim Special Edition. **GOG and other Languages are not supported**.
 
-**Ghoulified Reality REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON**
+**Rovaan REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON**
 
 ***
 
-Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and Ghoulified Reality.
+Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and Rovaan.
 
 Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
 
 ### Recommended System Requirements
 
-Ghoulified Reality requires a mid-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
+Rovaan requires a mid-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
 
 | Component    | Recommended for 1080p | 
 |:--------------:|:-------------:|
@@ -70,11 +70,11 @@ See how to setup a page file here: https://www.tomshardware.com/news/how-to-mana
 
 ## Installation
 
-Installing Ghoulified Reality is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
+Installing Rovaan is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
 
 ### Pre-Installation
 
-Prior to installing Ghoulified Reality, please complete the following steps.
+Prior to installing Rovaan, please complete the following steps.
 
 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer)
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
@@ -94,15 +94,15 @@ Prior to installing Ghoulified Reality, please complete the following steps.
 
 Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
- **NOTE**: Ghoulified Reality will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. 
+ **NOTE**: Rovaan will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. 
 
-#### Downloading and Installing Ghoulified Reality
+#### Downloading and Installing Rovaan
 
-Downloading and installing Ghoulified Reality can take a while depending on your internet connection and computer. To install Ghoulified Reality, complete the following steps.
+Downloading and installing Rovaan can take a while depending on your internet connection and computer. To install Rovaan, complete the following steps.
 
 1. Open Wabbajack and click on browse modlists.
-2. Press the download button on Ghoulified Reality and wait for it to download.
-3. Set the installation folder to be somewhere like C:\Ghoulified Reality. **Do not install it to your desktop or downloads folder.**
+2. Press the download button on Rovaan and wait for it to download.
+3. Set the installation folder to be somewhere like C:\Rovaan. **Do not install it to your desktop or downloads folder.**
 4. The download location does not need to be on a SSD but it makes installing a bit faster.
 5. Press the play button to begin.
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
@@ -133,9 +133,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Stock Game & Root Builder
 
-Ghoulified Reality utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Skyrim installation within the installation location of the list. This enables greater compatibility with other mod-lists.
+Rovaan utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Skyrim installation within the installation location of the list. This enables greater compatibility with other mod-lists.
 
-Ghoulified Reality also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and Engine Fixes. Please see our guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
+Rovaan also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and Engine Fixes. Please see our guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
 ***
 
 **NOTE**: Screenshots save to `Overwrite\Stock Game`.
@@ -143,11 +143,11 @@ Ghoulified Reality also utilizes Root Builder alongside Stock Game to enable eas
 ### Starting up the list
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
-Make sure the dropdown box on the right is set to `Ghoulified Reality` and press the `Run` button.
+Make sure the dropdown box on the right is set to `Rovaan` and press the `Run` button.
 
 ### In-game MCM options
 
-Ghoulified Reality has no required MCM options to be selected; however, you can load the smoothcam preset if you wish to do so.
+Rovaan has no required MCM options to be selected; however, you can load the smoothcam preset if you wish to do so.
 
 You are welcome to change any others to achieve your desired setup.
 
@@ -169,7 +169,6 @@ Simply delete the folder, and you have uninstalled it.
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- Ghoul smasher Biggie Forn and LaLa for being super helpful
-- WhisperDealer for the website
+- All the Playtester's that helped test my list: Branden. ZenoXP.
 - Halgari and everyone on the WJ Team - Wabbajack is awesome and so are you.
 - All of the amazing mod authors whose work made this modlist possible.
