@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Combat Features
+title: Miscellaneous Features
 parent: Guides
 grand_parent: A Painted World
 nav_order: 7
