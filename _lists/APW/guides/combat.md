@@ -3,7 +3,7 @@ layout: default
 title: Combat Features
 parent: Guides
 grand_parent: A Painted World
-nav_order: 5
+nav_order: 4
 ---
 ## COMBAT
 
