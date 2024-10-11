@@ -7,7 +7,7 @@ nav_order: 1
 
 # A Painted World - Oblivion Wabbajack Modlist
 
-![Image]({{ site.baseurl }}/assets/apw/cover.png)
+![banner image](https://github.com/sasquatch678/A-Painted-World/blob/main/cover_16x9.png)
 
 Oblivion Wabbajack Modlist by Sasquatch.
 
@@ -27,18 +27,27 @@ Oblivion Wabbajack Modlist by Sasquatch.
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-## Introduction
-
-**A Painted World** is a complete overhaul of TES IV: Oblivion with a focus on stylized and timeless visuals, modernized combat, deeper rpg mechanics, and meaningful progression. It features expanded cities, additional quests, more unique and detailed landscapes, and new lands such as Elsweyr. It is heavily focused on immersion and progression, and additionally has many slice of life features such as crafting, animal taming, fishing, and home decorating.
-
 ### Disclaimer
 
 Owing to the need to clean master files and certain errors with Wabbajack, A Painted World only supports **English Steam** versions of Oblivion GOTY Deluxe edition. 
 **GOG and other Languages are not supported**.
 
-Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and A Painted World.
+Only Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and A Painted World.
 
 Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
+
+### Recommended System Requirements
+
+If you can run vanilla Skyrim, you should be able to run APW without issue.
+
+| Component    | Recommended | 
+|:--------------:|:-------------:|
+| CPU | Quad-core Intel or AMD CPU
+| Ram | 4GB DDR4 Ram  + 40GB Pagefile 
+| Storage | SATA SSD or higher
+| GPU | Direct X 9.0c and Vulkan compliant video card with 6gb of VRAM
+
+Space required: ~115GB Total 
 
 ## Installation
 
@@ -56,7 +65,7 @@ The following steps are required to be completed before downloading A Painted Wo
 7. Navigate to Documents\My Games\Oblivion and open RendererInfo.txt in a text editor.
    On the last line you should see ```Shader Package         : 19``` If this does not say 19 for you, change it so that it does. Close and save the file, then right click it and select Properties. Make a checkmark on Read-only.
 8. Download and extract the 4gb patch from the link here. Run the exe on the Oblivion.exe in your game folder. <https://www.nexusmods.com/oblivion/mods/45576?tab=files>
-9. Download and install the basic version of the codecs pack here. This is important for audio to play correctly and can cause crashes if it is missing. <https://www.codecguide.com/download_kl.htm>
+9. Download and install the basic version of the codecs pack here. This is important for audio to play correctly and can cause crashes if it is missing. You don't need to select anything in particular, the default options are fine. <https://www.codecguide.com/download_kl.htm>
 10. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
 
 ***
@@ -67,7 +76,7 @@ The following steps are required to be completed before downloading A Painted Wo
 
 Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
-**NOTE**: A Painted World will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**.
+:warning: **NOTE**: A Painted World will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
 
 ***
 
@@ -90,6 +99,9 @@ Downloading and installing the list can take a while depending on your internet 
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
 - Failed Downloads
+	
+	- Missing Manual Downloads: Oblivion.exe - You did not follow the steps in pre-installation. Go back and read thoroughly.
+	
 	- If you get a failed downloads error in wabbajack from these mods, please download from the links below and manually move them to the downloads folder of the modlist, then rerun wabbajack.
 
    Fire Retexture 1k 1.2
@@ -113,18 +125,21 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 A Painted World utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Oblivion installation within the installation location of the list. This enables greater compatibility with other mod-lists and keeps your original game folder clean of any outside files.
 
-A Painted World also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and other mods which would ordinarily require being installed to the game folder. Please see our guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
+A Painted World also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and other mods which would ordinarily require being installed to the game folder. Please see this guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
 ***
 
-### Controller Support
+### Starting up the list
+Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
-APW is only able to support Playstation controllers. If you are interested and able to create a layout for xbox, please let me know.
+Make sure the dropdown box on the right is set to `Oblivion` and press the `Run` button.
+
+### Controller Support
 
 Copy and paste the following link to a web browser. Hit enter.
 
 steam://controllerconfig/22330/3299476272
 
-A prompt will appear to open it with Steam, select Open Link. An image of the layout will appear, use ⏹️ to import the layout. From here you can launch the list normally through MO2 and use the controller to play. 
+A prompt will appear to open it with Steam, select Open Link. An image of the layout will appear, use :stop_button: or X to import the layout. From here you can launch the list normally through MO2 and use the controller to play. 
 
 ### OPTIONAL MODS - ULTRAWIDE SUPPORT & PERFORMANCE
 
@@ -132,23 +147,12 @@ A Painted World comes with several customization options.
 
 There is 21x9 ultrawide support under the "ULTRAWIDE OPTIONALS (21x9)" section of Mod Organizer 2. 
 
-You can choose to enable ENB, and there are several presets to choose from.
-
 By default skills do not increase by using them and instead you get skill points you can distribute when leveling up. You can choose to enable skill based leveling again.
-
-When you die you will respawn as a ghost and after 30 seconds rematerialize, as an alternative and safer option to reloading saves. This can be disabled if you wish.
 
 If you need a boost in FPS, you can choose to enable the Performance LODs.
 
-### Starting up the list
-Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
-
-Make sure the dropdown box on the right is set to `A Painted World` and press the `Run` button.
-
 ## Known Issues
-1. On the main menu the background of the confirmation box when starting a new game is transparent. Darnified UI issue.
-2. The Save Game screenshot has a black bar/graphical artifacting. This is an issue when running the game at higher resolutions. Remember, Oblivion was originally intended to be played on 4:3 aspect ratios.
-3. The game can stutter or fps can drop quite heavily in certain areas. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Elsewyr cities in particular tank fps.
+1. The game can stutter or fps can drop quite heavily in certain areas. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Elsewyr cities in particular tank fps. Torches and light spells can cause fps to dip very heavily ias well. This is unfortunately just an engine limitation which gets exasperated by some of the mods adding more objects and detail to the landscape. There is no real solution except to avoid using lights in these areas at night.
 
 ## Updating the modlist
 
@@ -165,3 +169,4 @@ Simply delete the folder, and you have uninstalled it.
 - biggie_boss for answering all my questions, motivating me to create APW, and introducing me to Wabbajack in the first place with his Youtube content.
 - everyone in the Discord making reports and providing feedback. The list would not be in the current state without you.
 - Halgari and everyone on the WJ Team - Wabbajack is an amazing tool.
+

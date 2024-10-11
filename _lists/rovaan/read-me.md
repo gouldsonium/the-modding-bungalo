@@ -62,7 +62,7 @@ Rovaan requires a mid-tier modern system to run to its fullest potential. The re
 | Storage | M.2 SSD
 | GPU | RTX 4070 or better/equivalent
 
-Space required: ~134GB Download Size ~309GB install Size ~443GB Total
+Space required: ~130GB Download Size ~187GB install Size ~328GB Total
 
 See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
 

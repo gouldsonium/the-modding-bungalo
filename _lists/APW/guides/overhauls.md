@@ -3,7 +3,7 @@ layout: default
 title: Overhauls
 parent: Guides
 grand_parent: A Painted World
-nav_order: 4
+nav_order: 2
 ---
 # Overhauls
 APW comes with several overhauls that enhance both gameplay and immersion.
