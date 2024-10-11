@@ -28,7 +28,7 @@ Wabbajack Modlist Installer by **Sentarus**.
 
 ## Preamble
 
-Rovaan is a modlist for The Elder Scrolls V: Skyrim Special Edition that focuses on completely overhauling the game's visuals and gameplay to create a more challenging and immersive experience. A fork of the NGVO list which is a visual only modlist, Rovaan uses **CONTENT HERE**
+Rovaan is a modlist for The Elder Scrolls V: Skyrim Special Edition that focuses on completely overhauling the game's visuals and gameplay to create a more challenging and immersive experience. A fork of the NGVO list which is a visual only modlist, Rovaan is a EnaiRim\SimonRim mix with a de-leveled world and over 35+ new quests and modern combat. 
 
 ## System Requirements
 
@@ -84,7 +84,7 @@ Prior to installing Rovaan, please complete the following steps.
 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 7. Launch the game to the main menu and allow it to download the free creation club addon files. **DO NOT VERIFY YOUR GAME FILES**
 8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
-9. **Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.**
+### 9. **Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.**
 
 ***
 

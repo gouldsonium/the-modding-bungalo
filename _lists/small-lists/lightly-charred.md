@@ -8,6 +8,8 @@ parent: Small Lists
 # Lightly Charred
 Only 150 mods, Lightly Charred is a Wabbajack version of Heavy Burn's Next-Gen visuals modlist.
 
+**Total Space Required:** 180GB
+
 <div class="youtube-container">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
     src="https://www.youtube.com/embed/442kr7JFfCc?si=r3tMejiEupa2DFlg" 

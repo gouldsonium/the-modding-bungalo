@@ -8,6 +8,8 @@ parent: Small Lists
 # SSO - Simple Skyrim Overhaul
 A complete overhaul to Skyrim but with a twist, this list was limited to 200 mods.
 
+**Total Space Required:** 118GB
+
 <div class="youtube-container">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
     src="https://www.youtube.com/embed/6vRCJRyCDVY?si=1y7U3ENkNsMkM2P4" 
