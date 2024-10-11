@@ -3,7 +3,7 @@ layout: default
 title: Magic
 parent: Guides
 grand_parent: A Painted World
-nav_order: 2
+nav_order: 5
 ---
 # Tips
 Tips from **Sasquatch**, the modlist author
