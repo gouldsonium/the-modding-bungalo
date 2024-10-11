@@ -1,3 +1,11 @@
+---
+layout: default
+title: Combat Features
+parent: Guides
+grand_parent: A Painted World
+nav_order: 7
+---
+
 ## MISC CHANGES
 For new mechanics which don't fit cleanly into another section.
 
