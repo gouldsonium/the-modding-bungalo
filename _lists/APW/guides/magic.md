@@ -1,3 +1,11 @@
+---
+layout: default
+title: Combat Features
+parent: Guides
+grand_parent: A Painted World
+nav_order: 6
+---
+
 ## MAGIC
 
 Your starting magicka pool is determined by your total intelligence (3.5 magicka per point). Altmer and Bretons have a 10% multiplier to all magicka increases. Certain races start with higher or lower intelligence and certain birthsigns further increase the pool. Interacting with Ayleid Wells will give a permanent and stacking +5 bonus to your magicka.
