@@ -5,29 +5,47 @@ parent: Guides
 grand_parent: A Painted World
 nav_order: 5
 ---
-# New Combat Features
-APW makes several changes to combat.
+## COMBAT
 
-- **Sprinting:** Hold shift to sprint just like in Skyrim. Sprinting will consume more fatigue for more movement speed
+Fatigue is like your second health bar and affects your damage dealt, swing speed, and movement speed. At high fatigue you should look to go in and be aggressive while at low fatigue it’s usually preferable to hang back and play more defensively. With no perks and starting attributes, fatigue regenerates at a rate of 10 per second. Running consumes 4 fatigue per second and sprinting consumes 16. 
 
-- **Dodge:** At 50 Agility you can tap left alt to sidestep, and tap it again to dodgeroll (animations only work in third person, in 1st person you will see a transparent shader on your character during the iframes).
+Additionally, there are many new mechanics to take advantage of, listed below.
 
-- **Backstab:** Enemies will take 20% more damage from behind
+- Sprinting: Hold shift to sprint.
 
-- **Critical Strikes:** Normal attacks have a chance to deal critical damage ((25% of Weapon Damage * Multiplier) + Base damage) depending on your Luck. 20% crit chance at 100 Luck
+- Dodge: At 50 Agility you can tap left alt to sidestep, and tap it again to roll.
 
-- **Parry:** The player gets a 0.2 sec parry window when they start blocking. Attacks made against the player during this time will result in a parry. A successful parry will stagger the enemy, reset the player's Poise, and refund 20% of base fatique. 
+- Backstab: enemies will take 20% more damage from behind
 
-- **Power Attacks:** Power attacks break blocks and can be a good way to close gaps. Additional effects are added to power attacks depending on an actor's skill with their equipped weapon. (25% chance at 50 weapon skill, 33% between 50-75, 50% chance at 75+ weapon skill). Applies to both the player and enemies
+- Crititcal strikes: normal attacks have a chance to deal critical damage depending on your Luck. 20% crit chance at 100 Luck
 
-  - Blade weapons can make the target bleed for 3 seconds
-  - One-Handed Blunt weapons deal Fatigue damage + Silence for 3/4/5 sec.
-  - Two-Handed Blunt weapons can weaken the target's armor for 3/4/5 sec.
+- Parry: the player gets a 0.2 sec parry window when they start blocking. Attacks made against the player during this time will result in a parry. A successful parry will stagger the enemy, reset the player's Poise, and refund 20% of base fatique.
 
-- **Skyrim Style Bashing:** You can bash by holding block and using left click. Bashing deals 1 Poise damage and will interrupt and stagger Powerattacking/Blocking enemies. Bashing has a 1.5 second cooldown and requires 50 strength.
+- Power Attacks: Power attacks break blocks and deal extra damage. They can be performed by holding the left mouse button. Additional effects are added to power attacks depending on an actor's skill with their equipped weapon.
 
-- **Lock-On:** You can lock on to enemies who are directly targeting you by pressing Q
+  | Weapon Type    | Effect | 
+  |:--------------:|:-------------:|
+  | Blade | Bleed for 3 seconds
+  | One-Handed Blunt | Fatigue damage + Silence for 3/4/5 seconds
+  | Two-Handed Blunt | Weaken the target's armor for 3/4/5 seconds
 
-- **Spell Favoriting:** You can favorite spells by pressing F on them in the magic menu. Outside of the menu, pressing F will open the favorites menu which you can scroll through with the mouse wheel.
+- Bashing: You can bash by holding block and using left click. Bashing deals 1 Poise damage and will interrupt and stagger Powerattacking/Blocking enemies. Bashing has a 1.5 second cooldown and requires 50 strength.
 
-- **Poise:** Between 1-34 Agility actors will take two hits to stagger, between 35-59 Agility they will take 3 hits, etc. Power attacks count as 2 hits in this system. Two handed weapons deal twice as much poise damage.
+- Lock-On: you can lock on to enemies who are directly targeting you by pressing Q
+
+- Poise: Between 1-34 Agility actors will take two hits to stagger, between 35-59 Agility they will take 3 hits, etc. Power attacks count as 2 hits in this system. Two handed weapons deal twice as much poise damage.
+
+### Archery
+
+You can perform Charged Shots or Power Shots while a bow is equipped. You can toggle between the two by pressing H.
+
+#### Power Shots
+
+Power Shots can be performed by holding the attack key until your character briefly flashes, then releasing the attack key. A Power Shot deals 15% increased damage and can be performed in or out of combat. The timing of the flash is slightly randomized on each attack.
+
+#### Charged Shots
+Hold the attack key while a bow is equipped to charge your current shot. Charged shots will become more powerful the longer the attack key is held, however can only be performed while the player is in combat and are cancelled if the player is hit while charging.
+
+Your maximum charge level depends on your Marksman skill. New ranks will become available at 25, 50, and 75 Marksman skill.
+
+Charged Shots deal increased damage & poise damage depending on how long they have been charged. Ranks 3 and 4 will also cause the target to bleed for 3 seconds.
