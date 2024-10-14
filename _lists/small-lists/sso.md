@@ -15,9 +15,9 @@ A complete overhaul to Skyrim but with a twist, this list was limited to 200 mod
 | Component    | Recommended | 
 |:--------------:|:-------------:|
 | CPU | 10th Generation i5 or better/equivalent
-| Ram | 8GB DDR4 Ram  + 40GB Pagefile 
+| Ram | 16GB DDR4 Ram  + 40GB Pagefile 
 | Storage | SATA SSD or higher
-| GPU | RTX 3050 or better/equivalent
+| GPU | RTX 3060 or better/equivalent
 
 <div class="youtube-container">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 

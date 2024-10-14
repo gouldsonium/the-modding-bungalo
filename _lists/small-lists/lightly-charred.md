@@ -14,10 +14,10 @@ Only 150 mods, Lightly Charred is a Wabbajack version of Heavy Burn's Next-Gen v
 
 | Component    | Recommended | 
 |:--------------:|:-------------:|
-| CPU | 10th Generation i5 or better/equivalent
-| Ram | 16GB DDR4 Ram  + 40GB Pagefile 
+| CPU | 12th Generation i7 or better/equivalent
+| Ram | 32GB DDR4 Ram  + 40GB Pagefile 
 | Storage | SATA SSD or higher
-| GPU | RTX 3060 or better/equivalent
+| GPU | RTX 3080 or better/equivalent
 
 <div class="youtube-container">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
