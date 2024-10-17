@@ -169,6 +169,6 @@ Simply delete the folder, and you have uninstalled it.
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- All the Playtester's that helped test my list: Branden. ZenoXP.
+- All the Playtester's that helped test my list: Branden. ZenoXP, Babyjaws, Grunwen.
 - Halgari and everyone on the WJ Team - Wabbajack is awesome and so are you.
 - All of the amazing mod authors whose work made this modlist possible.
