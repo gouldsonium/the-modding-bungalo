@@ -36,7 +36,7 @@ Rovaan is a modlist for The Elder Scrolls V: Skyrim Special Edition that focuses
 
 Owing to the need to clean master files and certain errors with Wabbajack, Rovaan only supports **English Steam** versions of Skyrim Special Edition. **GOG and other Languages are not supported**.
 
-**Rovaan REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON**
+**Rovaan REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS**
 
 ***
 
