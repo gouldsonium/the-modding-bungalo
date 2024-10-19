@@ -53,7 +53,7 @@ Ghoulified Reality requires a mid-tier modern system to run to its fullest poten
 | CPU | 10th Generation i5 or better/equivalent
 | Ram | 16GB DDR4 Ram  + 40GB Pagefile 
 | Storage | SATA SSD or higher
-| GPU | RTX 3060 or better/equivalent
+| GPU | RTX 3070 or better/equivalent
 
 | Component    | Recommended for 1440p | 
 |:--------------:|:-------------:|
@@ -62,7 +62,7 @@ Ghoulified Reality requires a mid-tier modern system to run to its fullest poten
 | Storage | M.2 SSD
 | GPU | RTX 4070 or better/equivalent
 
-Space required: ~134GB Download Size ~309GB install Size ~443GB Total
+Space required: ~306GB Total
 
 See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
 
