@@ -150,6 +150,8 @@ Make sure the dropdown box on the right is set to `Ghoulified Reality` and press
 ### Optional Mods
 In MO2 there is a section at the bottom labeled optional all mods in that section can be turned on or off at any time this is also where you can disable perma-death.
 
+I have also included ultra wide support but since I don't own an ultra wide myself it may not be perfect.
+
 ### In-game MCM options
 
 Ghoulified Reality has no required MCM options to be selected; however, you can load the smoothcam preset if you wish to do so.
