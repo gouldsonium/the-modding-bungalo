@@ -158,11 +158,9 @@ Ghoulified Reality has no required MCM options to be selected; however, you can 
 
 You are welcome to change any others to achieve your desired setup.
 
-### Known Bugs/Crashes
-
-If you are using an AMD GPU, you need to disable DLAA and enable TAA in the SkyrimPrefs.ini located in the profile folder. Otherwise, you WILL crash.
-
-Dying and then reloading CAN cause crashes with Dyndolod DLL NG. The alternative is to disable Dyndolod DLL NG and re-run Dyndolod. This will enable Dyndolod via papyrus scripts which resolves this issue but is heavier FPS-wise and has worse lods.
+### Mods to read up on
+3BFTweaks - I recommend you check the guid section for more information.
+AD-Mortem perma-death - This will automatically delete all saves upon dying.
  
 ## Updating the modlist
 
