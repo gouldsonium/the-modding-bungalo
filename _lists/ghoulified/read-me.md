@@ -154,9 +154,9 @@ I have also included ultra wide support but since I don't own an ultra wide myse
 
 ### In-game MCM options
 
-Ghoulified Reality automatically runs the mcm options for you just stand still until you get a pop up saying it has finished.
+Ghoulified Reality automatically runs the mcm options for you, just stand still until you get a pop up saying it has finished.
 
-After the mcm is done open your inventory then close it to start 3BFTweaks.
+After the mcm is done open your inventory and close it to start 3BFTweaks.
 
 ### Mods to read up on
 3BFTweaks - I recommend you check the guid section for more information.
