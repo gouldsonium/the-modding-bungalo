@@ -28,7 +28,7 @@ Wabbajack Modlist Installer by **Ghoulified**.
 
 ## Preamble
 
-Ghoulified Reality is a modlist for The Elder Scrolls V: Skyrim Special Edition that focuses on completely overhauling the game's visuals and gameplay to create a more challenging and immersive experience. A fork of NGVO which is a visual only modlist, Ghoulified use Requiem to enhance the game for a more challenging and strategic experience, from combat to character progression. What separates this list from other Requiem lists is Ghoulified uses 3BFTweaks which makes the world more dangerous while still maintaining a sense of fairness and balance.
+Ghoulified Reality is a hardcore perma-death focused modlist for The Elder Scrolls V: Skyrim Special Edition that focuses on completely overhauling the game's visuals and gameplay to create a more challenging and immersive experience. A fork of NGVO which is a visual only modlist, Ghoulified use Requiem to enhance the game for a more challenging and strategic experience, from combat to character progression. What separates this list from other Requiem lists is Ghoulified uses 3BFTweaks which makes the world more dangerous while still maintaining a sense of fairness and balance.
 
 ## System Requirements
 
