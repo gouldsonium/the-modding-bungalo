@@ -154,9 +154,9 @@ I have also included ultra wide support but since I don't own an ultra wide myse
 
 ### In-game MCM options
 
-Ghoulified Reality has no required MCM options to be selected; however, you can load the smoothcam preset if you wish to do so.
+Ghoulified Reality automatically runs the mcm options for you just stand still until you get a pop up saying it has finished.
 
-You are welcome to change any others to achieve your desired setup.
+After the mcm is done open your inventory then close it to start 3BFTweaks.
 
 ### Mods to read up on
 3BFTweaks - I recommend you check the guid section for more information.
