@@ -13,7 +13,6 @@ APW comes with several overhauls that enhance both gameplay and immersion.
 |---|---|---|
 | **Maskar’s Oblivion Overhaul (MOO)** | Many new gameplay mechanics including lock bashing, trap disarming, animal taming, crafting, placeable player homes, more enemy variety, dynamic dungeon extensions, and much more. | [View Mod](https://www.nexusmods.com/oblivion/mods/42780) |
 | **Combat Additions** | Adds many new combat mechanics to the game such as lock on, timed block and dodge, arrow nocking and Skyrim style bash mechanics. | [View Mod](https://www.nexusmods.com/oblivion/mods/49939) |
-| **Simple Dual Wielding** | Allows you to dual wield melee weapons like Skyrim. | [View Mod](https://www.nexusmods.com/oblivion/mods/43079) |
 | **Ultimate Leveling** | Changes to how leveling works. | [View Mod](https://www.nexusmods.com/oblivion/mods/49134) |
 | **Av Latta Magicka** | Magic and Spell Overhaul. | [View Mod](https://www.nexusmods.com/oblivion/mods/49096) |
 | **De Rerum Dirennis** | Alchemy overhaul. | [View Mod](https://www.nexusmods.com/oblivion/mods/53020) |
