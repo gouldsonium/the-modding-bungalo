@@ -143,7 +143,12 @@ Ghoulified Reality also utilizes Root Builder alongside Stock Game to enable eas
 ### Starting up the list
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
+You'll get a NXM pop up once MO2 is launched just hit ignore.
+
 Make sure the dropdown box on the right is set to `Ghoulified Reality` and press the `Run` button.
+
+### Optional Mods
+In MO2 there is a section at the bottom labeled optional all mods in that section can be turned on or off at any time this is also where you can disable perma-death.
 
 ### In-game MCM options
 
