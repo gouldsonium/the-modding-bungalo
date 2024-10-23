@@ -112,5 +112,7 @@ And that's as far as I've got so far…
 Cheers,  
 **babyjaws**
 
-To be continued...  
+To be continued...
 Any feedback: [babyjaws@gmail.com](mailto:babyjaws@gmail.com)
+
+Nexus Page [here](https://www.nexusmods.com/skyrimspecialedition/mods/132124?tab=description)

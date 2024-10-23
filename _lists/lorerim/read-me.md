@@ -9,7 +9,7 @@ nav_order: 2
 
 ![banner image](https://staticdelivery.nexusmods.com/mods/1704/images/112590/112590-1708904333-195281047.png)
 
-Wabbajack Modlist Installer by biggie_boss.
+Wabbajack Modlist Installer by **biggie_boss**.
 
 <table stlyle="border: none;">
 <tr>
@@ -44,7 +44,7 @@ This list is challenging but it is up to you, the player, to overcome those chal
 
 Owing to the need to clean master files and certain errors with Wabbajack, LoreRim only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
 
-:warning: :exclamation: **LORERIM REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS** :exclamation: :warning:
+**LORERIM REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS**
 
 ***
 
@@ -74,7 +74,7 @@ Space required: ~300GB Download Size ~250GB install Size ~550GB Total
 
 See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
 
-:warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
+**NOTE**: AMD RX 580 and older cards are **not supported**.
 
 ## Installation
 
@@ -102,10 +102,20 @@ Prior to installing LoreRim, please complete the following steps.
 
 Once you have completed pre-installation, download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
-:warning: **NOTE**: LoreRim will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
+ **NOTE**: LoreRim will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. 
 
 **Installation Video:**
-[Link Here](https://www.youtube.com/watch?v=nApuOZWp12c)
+
+<div class="youtube-container">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    src="https://www.youtube.com/embed/nApuOZWp12c?si=AAXf3M-6oHi8D9D4" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 #### Downloading and Installing LoreRim
 
@@ -143,6 +153,17 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 	- If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ## Post-Installation
+
+<div class="youtube-container">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    src="https://www.youtube.com/embed/6aRAmskgGVo?si=isHbzZ_wLnBt_Sqp" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### Stock Game & Root Builder
 
