@@ -3,7 +3,7 @@ layout: default
 title: Levelling Guide
 parent: Guides
 grand_parent: Lorerim
-nav_order: 11
+nav_order: 10
 ---
 # Levelling Guide
 ###### By shallowgreen
