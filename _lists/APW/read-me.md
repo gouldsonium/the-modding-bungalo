@@ -7,7 +7,7 @@ nav_order: 1
 
 # A Painted World
 
-![banner image](https://github.com/sasquatch678/A-Painted-World/blob/main/cover_16x9.png)
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World/refs/heads/main/cover_16x9.png)
 
 Oblivion Wabbajack Modlist by Sasquatch.
 
