@@ -7,7 +7,7 @@ nav_order: 1
 #  Rovaan - a Hardcore Wabbajack list
 Wabbajack Modlist Installer by **Sentarus**.
 
-![Image](https://staticdelivery.nexusmods.com/mods/1704/images/130579/130579-1728546266-1986888182.png)
+![Image](https://staticdelivery.nexusmods.com/mods/1704/images/130579/130579-1730165439-518238221.png)
 
 <table style="border: none;">
 <tr>
