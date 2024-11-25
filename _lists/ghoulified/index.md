@@ -21,7 +21,6 @@ Prior to installing Ghoulifed Reality, please complete the following steps.
 - Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 - Launch the game to the main menu and allow it to download the free creation club addon files. DO NOT VERIFY YOUR GAME FILES
 - Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These will mess with the installation and, in the case of the latter, causes more problems than it solves.
-- Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.
 
 For full installation instructions, checkout the [Read Me](/lists/ghoulified/read-me/)
 
