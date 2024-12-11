@@ -152,9 +152,11 @@ LoreRim utilizes a Wabbajack technology called Stock Game. What this essentially
 LoreRim also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and Engine Fixes. Please see our guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
 ***
 
-**XMP/EXPO/RAM OVERCLOCKING: ** Skyrim is an old game and very memory sensitive. I DO NOT RECOMMEND enabling XMP/EXPO or overclocking your RAM while playing it. You can check if XMP/EXPO is enabled in your motherboard's BIOS settings.
+### XMP/EXPO/RAM OVERCLOCKING:
 
-### OPTIONAL MODS - ULTRAWIDE SUPPORT & PERFORMANCE
+Skyrim is an old game and very memory sensitive. I DO NOT RECOMMEND enabling XMP/EXPO or overclocking your RAM while playing it. You can check if XMP/EXPO is enabled in your motherboard's BIOS settings.
+
+### OPTIONAL MODS - ULTRAWIDE SUPPORT & PERFORMANCE:
 
 LoreRim comes with several list customization options. There is ultrawide support under the "Widescreen Support" section of Mod Organizer 2. There are several ENB presets to choose from ONLY CLICK ONE OPTION AT A TIME.
 
