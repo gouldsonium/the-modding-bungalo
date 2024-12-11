@@ -93,6 +93,7 @@ Prior to installing LoreRim, please complete the following steps.
 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 7. Launch the game to the main menu and allow it to download the paid addon files. **DO NOT VERIFY YOUR GAME FILES**
 8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
+9. I recommend temporarily disabling Windows Defender during the download process if you get a false positive for DyndoLOD. DyndoLOD is safe, it is NOT a Trojan. Either that, or add an exception to the download path.
 
 ***
 
@@ -139,6 +140,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Antivirus reports a virus:
 	- You did not follow the steps in [Pre-Installation](#pre-installation). Go back and follow it.
+	- Again as listed in the previous steps: I recommend temporarily disabling Windows Defender during the download process if you get a false positive for DyndoLOD. DyndoLOD is safe, it is NOT a Trojan. Either that, or add an exception to the download path.
 	- If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ## Post-Installation
@@ -149,6 +151,8 @@ LoreRim utilizes a Wabbajack technology called Stock Game. What this essentially
 
 LoreRim also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and Engine Fixes. Please see our guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
 ***
+
+**XMP/EXPO/RAM OVERCLOCKING: ** Skyrim is an old game and very memory sensitive. I DO NOT RECOMMEND enabling XMP/EXPO or overclocking your RAM while playing it. You can check if XMP/EXPO is enabled in your motherboard's BIOS settings.
 
 ### OPTIONAL MODS - ULTRAWIDE SUPPORT & PERFORMANCE
 
