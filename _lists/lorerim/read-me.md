@@ -1,9 +1,4 @@
 ---
-layout: default
-title: Read Me
-parent: Lorerim
-nav_order: 2
----
 
 # LoreRim - A Modern Action RPG
 
