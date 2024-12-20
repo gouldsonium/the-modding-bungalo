@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Read Me
-parent: LoreRim
+parent: Lorerim
 nav_order: 1
 ---
 
