@@ -7,7 +7,7 @@ nav_order: 2
 
 ![banner image](https://staticdelivery.nexusmods.com/mods/1704/images/119972/119972-1716381288-521170744.png)
 
-Wabbajack Modlist Installer by biggie_boss.
+Wabbajack Modlist Installer by **biggie_boss**.
 
 <table style="border: none;">
 <tr>
@@ -28,7 +28,7 @@ Wabbajack Modlist Installer by biggie_boss.
 
 ## Preamble
 
-**NGVO** NGVO (Next Generation Visual Overhaul) is a comprehensive visual baseline list designed around the philosophy as making it as moddable as possible while offering the absolute best visuals you can find. As such, the plugin count is under 300 with less than 40 ESP/ESM's, giving you over 210 ESP/ESM slots to work with.
+**NGVO** (Next Generation Visual Overhaul) is a comprehensive visual baseline list designed around the philosophy as making it as moddable as possible while offering the absolute best visuals you can find. As such, the plugin count is under 300 with less than 40 ESP/ESM's, giving you over 210 ESP/ESM slots to work with.
 
 ## System Requirements
 
@@ -36,6 +36,7 @@ Wabbajack Modlist Installer by biggie_boss.
 
 Owing to the need to clean master files and certain errors with Wabbajack, NGVO only supports **English Steam** versions of Skyrim Special Edition. **GOG and other Languages are not supported**.
 
+{: .important}
 **NGVO REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON** 
 
 ***
@@ -62,10 +63,11 @@ NGVO requires a mid-tier modern system to run to its fullest potential. The reco
 | Storage | M.2 SSD
 | GPU | RTX 4070 or better/equivalent
 
-Space required: ~150GB Download Size ~100GB install Size ~250GB Total
+**Space required:** ~150GB Download Size ~100GB install Size ~250GB Total
 
-See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
+See how to setup a page file [here](https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html)
 
+{: .important}
 **NOTE**: AMD RX 580 and older cards are **not supported**.
 
 ## Installation
@@ -95,6 +97,7 @@ Prior to installing NGVO, please complete the following steps.
 
 Once you have completed pre-installation, download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
+{: .important}
 **NOTE**: NGVO will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**.
 
 #### Downloading and Installing NGVO
