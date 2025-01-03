@@ -6,18 +6,13 @@ has_children: false
 parent: Small Lists
 ---
 # SpeedTweaks
-A small modlist made by Ghoulified for speed running 3tweaks
+A small modlist made by **Ghoulified** for speed running 3tweaks
 
-**Total Space Required:** ?
+**Total Space Required:** 25GB
 
 **Recommended Specs:** 
 
-| Component    | Recommended | 
-|:--------------:|:-------------:|
-| CPU | 10th Generation i5 or better/equivalent
-| Ram | 16GB DDR4 Ram  + 40GB Pagefile 
-| Storage | SATA SSD or higher
-| GPU | RTX 3060 or better/equivalent
+>"a literal potato"
 
 
 ## How to get it?

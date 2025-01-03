@@ -36,6 +36,7 @@ Ghoulified Reality is a hardcore perma-death focused modlist for The Elder Scrol
 
 Owing to the need to clean master files and certain errors with Wabbajack, Ghoulified Reality only supports **English Steam** versions of Skyrim Special Edition. **GOG and other Languages are not supported**.
 
+{: .warning}
 **Ghoulified Reality REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON**
 
 ***
@@ -62,10 +63,11 @@ Ghoulified Reality requires a mid-tier modern system to run to its fullest poten
 | Storage | M.2 SSD
 | GPU | RTX 4070 or better/equivalent
 
-Space required: ~306GB Total
+**Space required:** ~306GB Total
 
-See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
+See how to setup a page file [here](https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html)
 
+{: .important}
 **NOTE**: AMD RX 580 and older cards are **not supported**. 
 
 ## Installation
@@ -93,7 +95,8 @@ Prior to installing Ghoulified Reality, please complete the following steps.
 
 Once you have completed pre-installation, download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
- **NOTE**: Ghoulified Reality will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. 
+{: .important}
+**NOTE**: Ghoulified Reality will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. 
 
 #### Downloading and Installing Ghoulified Reality
 
@@ -135,7 +138,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 Ghoulified Reality utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Skyrim installation within the installation location of the list. This enables greater compatibility with other mod-lists.
 
 Ghoulified Reality also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and Engine Fixes. Please see our guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
-***
 
 **NOTE**: Screenshots save to `Overwrite\Stock Game`.
 

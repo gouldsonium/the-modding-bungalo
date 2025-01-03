@@ -6,6 +6,8 @@ has_children: false
 ---
 ![Image]({{ site.baseurl }}/assets/lorerim/logo-v3.png)
 
+**Made by biggie_boss**
+
 LoreRim is complete overhaul of Skyrim Anniversary Edition, designed to modernize the visuals and combat of the game while also staying true to lore and bringing back gameplay mechanics from previous games. This modlist is heavily focused on immersion, role-playing and progression.
 
 To learn more, checkout Lorerim's Wiki

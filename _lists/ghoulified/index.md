@@ -6,9 +6,11 @@ has_children: true
 has_toc: true # toc stands for table of content
 ---
 ![Image]({{ site.baseurl }}/assets/ghoulified/logo.png)
-Beautiful Graphics and 3BFTweaks gameplay. Ghoulified Reality is a hardcore perma-death focused modlist for The Elder Scrolls V: Skyrim Special Edition that focuses on completely overhauling the game's visuals and gameplay to create a more challenging and immersive experience. 
 
 **Made by Ghoulifed**
+
+Beautiful Graphics and 3BFTweaks gameplay. Ghoulified Reality is a hardcore perma-death focused modlist for The Elder Scrolls V: Skyrim Special Edition that focuses on completely overhauling the game's visuals and gameplay to create a more challenging and immersive experience. 
+
 
 ## Pre-Installation
 Prior to installing Ghoulifed Reality, please complete the following steps.
@@ -38,6 +40,3 @@ For full installation instructions, checkout the [Read Me](/lists/ghoulified/rea
 
 ## For support visit
 [The Bungalo Discord](https://discord.gg/bungalo){: .btn }
-
-## For more information visit
-[Visit Website](https://ghoulified.netlify.app/){: .btn }

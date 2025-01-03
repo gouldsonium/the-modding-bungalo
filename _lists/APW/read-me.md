@@ -35,15 +35,15 @@ You must be prepared to cast aside your previous notions about Cyrodiil. The wor
 
 If you feel overwhelmed by the difficulty when you first start out in this dangerous new world, do not be discouraged. Be cautious at first. Upgrade your gear as often as possible. If you find yourself facing overwhelming odds, run away and return later when you are more powerful to reap revenge on your foes. If necessary, seek help from the guards and legion patrols along the roads. The farther you venture from civilization, the deadlier enemies you will come across, and the greater the rewards. With every level you will become stronger than before. Don't give up!
 
-
-### Disclaimer
-
-Owing to the need to clean master files and certain errors with Wabbajack, A Painted World only supports **English Steam** versions of Oblivion GOTY Deluxe edition. 
-**GOG and other Languages are not supported**.
-
-Only Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and A Painted World.
-
-Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
+{: .warning}
+>### Disclaimer
+>
+>Owing to the need to clean master files and certain errors with Wabbajack, A Painted World only supports **English Steam** versions of Oblivion GOTY Deluxe edition. 
+>**GOG and other Languages are not supported**.
+>
+>Only Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and A Painted World.
+>
+>Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
 
 ### Recommended System Requirements
 
@@ -56,7 +56,7 @@ If you can run vanilla Skyrim, you should be able to run APW without issue.
 | Storage | SATA SSD or higher
 | GPU | Direct X 9.0c and Vulkan compliant video card with 6gb of VRAM
 
-Space required: ~120GB Total 
+**Space required:** ~120GB Total 
 
 ## Installation
 
@@ -86,7 +86,8 @@ The following steps are required to be completed before downloading A Painted Wo
 
 Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
-:warning: **NOTE**: A Painted World will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
+{: .important}
+**NOTE**: A Painted World will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. 
 
 ***
 
@@ -115,7 +116,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 	- If you get a failed downloads error in wabbajack from these mods, please download from the links below and manually move them to the downloads folder of the modlist, then rerun wabbajack.
 
    Fire Retexture 1k 1.2
-   https://www.mediafire.com/download/ctd689d2etnlabw/fire+retexture+1k+1.2.rar
+   [https://www.mediafire.com/download/ctd689d2etnlabw/fire+retexture+1k+1.2.rar](https://www.mediafire.com/download/ctd689d2etnlabw/fire+retexture+1k+1.2.rar)
 
 - x is not a whitelisted download:
 
@@ -133,7 +134,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Frequently Asked Questions
 
-Please consult the  [FAQ](https://github.com/sasquatch678/A-Painted-World/blob/main/FAQ.md) page here to see if your question is already answered.
+Please consult the [FAQ](https://github.com/sasquatch678/A-Painted-World/blob/main/FAQ.md) page here to see if your question is already answered.
 
 ### Gameplay Changes
 
@@ -155,7 +156,7 @@ Make sure the dropdown box on the right is set to `Oblivion` and press the `Run`
 
 Copy and paste the following link to a web browser. Hit enter.
 
-steam://controllerconfig/22330/3299476272
+`steam://controllerconfig/22330/3299476272`
 
 A prompt will appear to open it with Steam, select Open Link. An image of the layout will appear, use :stop_button: or X to import the layout. From here you can launch the list normally through MO2 and use the controller to play. 
 
