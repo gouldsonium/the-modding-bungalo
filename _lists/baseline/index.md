@@ -13,4 +13,7 @@ A baseline list to start your own Skyrim SE/AE modded experience.
 
 This is just a simple modlist designed to build off of. It has the barebones necessities for Skyrim including: bugfixes, tools, xedit scripts. It does NOT have: visual overhauls, gameplay mods, etc.
 
-The total download+install size is about 30gb (since it has stock game folder setup) as well as the latest version of creation kit. **No paid AE required**
+The total download+install size is about 30gb (since it has stock game folder setup) as well as the latest version of creation kit. 
+
+## For support visit
+[The Bungalo Discord](https://discord.gg/bungalo){: .btn }
