@@ -17,5 +17,3 @@ Checkout this live stream which Biggie Boss creates a modlist completely from sc
     allowfullscreen>
   </iframe>
 </div>
-
-And the cool thing about the list made in the stream, its available in the Bungalo.

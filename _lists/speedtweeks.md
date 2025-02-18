@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Speed Tweaks
-nav_order: 2
+nav_order: 4
 has_children: false
-parent: Small Lists
 ---
 # SpeedTweaks
 A small modlist made by **Ghoulified** for speed running 3tweaks
