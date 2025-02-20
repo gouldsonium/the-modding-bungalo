@@ -18,6 +18,9 @@ collections:
   lists:
     permalink: "/:collection/:path/"
     output: true
+  ngvo:
+    permalink: "/:collection/:path/"
+    output: true
   modding_guides:
     permalink: "/:collection/:path/"
     output: true
@@ -30,7 +33,10 @@ just_the_docs:
   collections:
     lists:
       name: Lists
-      nav_fold: false 
+      nav_fold: false
+    ngvo:
+      name: NGVO
+      nav_fold: true 
     modding_guides:
       name: Modding Guides
       nav_fold: true
