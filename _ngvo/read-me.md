@@ -37,7 +37,7 @@ Wabbajack Modlist Installer by **biggie_boss**.
 Owing to the need to clean master files and certain errors with Wabbajack, NGVO only supports **English Steam** versions of Skyrim Special Edition. **GOG and other Languages are not supported**.
 
 {: .important}
-**NGVO REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON** 
+**NGVO REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON. IT ALSO REQUIRES THE FULL $20 ANNIVERSARY EDITION UPGRADE** 
 
 ***
 
@@ -51,8 +51,8 @@ NGVO requires a mid-tier modern system to run to its fullest potential. The reco
 
 | Component    | Recommended for 1080p | 
 |:--------------:|:-------------:|
-| CPU | 10th Generation i5 or better/equivalent
-| Ram | 16GB DDR4 Ram  + 40GB Pagefile 
+| CPU | 12th Generation i7 or better/equivalent
+| Ram | 32GB DDR4 Ram  + 40GB Pagefile 
 | Storage | SATA SSD or higher
 | GPU | RTX 3060 or better/equivalent
 
@@ -61,7 +61,7 @@ NGVO requires a mid-tier modern system to run to its fullest potential. The reco
 | CPU | 12th Generation i7 or better/equivalent
 | Ram | 32GB DDR4 Ram  + 40GB Pagefile 
 | Storage | M.2 SSD
-| GPU | RTX 4070 or better/equivalent
+| GPU | RTX 4080 or better/equivalent
 
 **Space required:** ~150GB Download Size ~100GB install Size ~250GB Total
 
@@ -85,7 +85,7 @@ Prior to installing NGVO, please complete the following steps.
 4. Fully disable OneDrive and any other programs which hook into user file areas.
 5. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-7. Launch the game to the main menu and allow it to download the free creation club addon files. **DO NOT VERIFY YOUR GAME FILES**
+7. Launch the game to the main menu and allow it to download the creation club addon files. **DO NOT VERIFY YOUR GAME FILES**
 8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
 9. **Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.**
 
