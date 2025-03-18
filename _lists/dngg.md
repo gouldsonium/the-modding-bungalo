@@ -4,6 +4,8 @@ title: Do Not Go Gentle
 nav_order: 4
 has_children: false
 ---
+# Do Not Go Gentle
+
 ![Image]({{ site.baseurl }}/assets/dngg/cover.png)
 
 **Made by Abandoned_By_Arkay**
