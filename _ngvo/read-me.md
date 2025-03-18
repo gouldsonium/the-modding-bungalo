@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # NGVO - A Visual Baseline Modlist
 
-![banner image](https://staticdelivery.nexusmods.com/mods/1704/images/119972/119972-1716381288-521170744.png)
+![banner image]({{ site.baseurl }}/assets/ngvo/cover.png)
 
 Wabbajack Modlist Installer by **biggie_boss**.
 
