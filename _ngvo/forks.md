@@ -45,3 +45,17 @@ OCM stands for Ostim Community Modlist. What is Ostim? Well...click the link to 
     allowfullscreen>
   </iframe>
 </div>
+
+## CSVP - Colloquy's Skyrim Vanilla Plus
+CSVP - Colloquy's Skyrim Vanilla Plus is a modlist that is also hosted in the Modding Bungalo. Checkout a preview below:
+
+<div class="youtube-container">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    src="https://www.youtube.com/embed/asuwknZghMU" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>

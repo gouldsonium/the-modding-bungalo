@@ -12,9 +12,12 @@ Wabbajack Modlist Installer by **Ghoulified**.
 <table style="border: none;">
 <tr>
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/121811">Nexus Page</a></td>
-<td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>	
-<!-- <td><a href="https://loadorderlibrary.com/lists/next-generation-visual-overhaul-Ghoulified Reality">Load Order Library (Ghoulified Reality for now)</a></td> -->
-<td><a href="https://discord.gg/Tb5ETzBYjd"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
+<td align="center">
+  <a href="https://github.com/wabbajack-tools/wabbajack/releases">
+    <img alt="Wabbajack" src="/assets/wabbajack.png" width="64px" >
+  </a>
+</td>	
+<td align="center"><a href="https://discord.gg/Tb5ETzBYjd"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
 </tr>
 </table>
 
