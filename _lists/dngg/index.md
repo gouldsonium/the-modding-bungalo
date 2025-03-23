@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Do Not Go Gentle
-nav_order: 4
+nav_order: 5
 has_children: true
 has_toc: true # toc stands for table of content
 ---
