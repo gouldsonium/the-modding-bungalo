@@ -54,8 +54,8 @@ CSVP requires a mid-tier modern system to run to its fullest potential. The reco
 
 | Profile | Download Size  | Install Size | Total | Count | 
 |:-------:|:--------------:|:------------:|:-----:|:------|
-| Main    | ~125GB         | ~175GB       |~300GB | 1607 Mods, 975 Plugins, 72 ESPs
-| PERF    | ~125GB         | ~175GB       |~300GB | 1597 Mods, 893 Plugins, 69 ESPs
+| Main    | ~125GB         | ~175GB       |~300GB | 1619 Mods, 1006 Plugins, 74 ESPs
+| PERF    | ~125GB         | ~185GB       |~310GB | 1610 Mods, 924 Plugins, 71 ESPs
 
 Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and CSVP.
 
