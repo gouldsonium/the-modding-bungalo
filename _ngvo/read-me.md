@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # NGVO - A Visual Baseline Modlist
 
-![banner image]({{ site.baseurl }}/assets/ngvo/cover.png)
+![banner image]({{ site.baseurl }}/assets/ngvo/logo.png)
 
 Wabbajack Modlist Installer by **biggie_boss**.
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Showcase
-nav_order: 4
+nav_order: 5
 ---
 # Showcase
 Some videos from other content creators showcasing NGVO. 
