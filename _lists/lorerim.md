@@ -4,7 +4,7 @@ title: Lorerim
 nav_order: 1
 has_children: false
 ---
-![Image]({{ site.baseurl }}/assets/lorerim/logo-v3.png)
+![Image]({{ site.baseurl }}/assets/lorerim/logo-v4.png)
 
 **Made by biggie_boss**
 
