@@ -155,11 +155,6 @@ Open the installation folder and double-click on the program called ModOrganizer
 
 Make sure the dropdown box on the right is set to 'CSVP - A NGVO Fork' and press the Run button.
 
-#### In Game (FINAL STEPS):
-There are 2 things left to do before you're all set
-1. Pause, navigate to Settings, find MCM Recorder in the Mod Configuration Menu and run 'CSVP Setup'. This configures mods that didn't have Settings Loaders Plugins.
-2. Lastly open the Immersive Equipment Displays Menu (BACKSPACE), go top left to File -> Import/Export, Import 'CSVP' and select Merge (not replacement). This configures the dynamic equipment displays to my settings.
-
 ----------------------------------------------------
 
 ### In-game MCM options:
