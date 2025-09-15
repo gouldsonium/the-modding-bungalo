@@ -45,6 +45,34 @@ The two versions are completely identical gameplay and backend systems-wise. The
 
 ![Image]({{ site.baseurl }}/assets/csvp/community-shaders.png)
 
+## Can I use a controller?
+
+Switching to the controller config is 2 easy steps (See the video). Bind Dual Wield Block to L1 in Valhalla's MCM and activate the 'Controller Config (ON)' profile in the MCM Recorder Menu, that's it! To switch back from controller you will bind Dual Wield Block back to V, and activate the 'Controller Config (OFF)' profile.
+
+See the bind maps below. Hotkeys 1-6 need to be set by the Keyboard as they are mapped but not able to be designated by the Gamepad itself.
+
+Reminder that with STB Hotkey Quick Cast you can swap between Powers and Shouts on the fly without going into menus by binding them to a hotkey!
+![Image]({{ site.baseurl }}/assets/csvp/controller.png)
+
+## What are the hotkeys in this list?
+
+- **ENB:** SHIFT+ENTER
+- **Community Shaders:** END
+- **KreatE:** HOME
+- **Open Animation Replacer:** SHIFT+O
+- **Immersive Equipment Displays:** BACKSPACE
+- **Improved Camera SE:** SHIFT+HOME
+- **SmoothCam Toggle:** UP ARROW
+- **Switch Shoulders (*SmoothCam*):** M4 (Mouse Side Button)
+- **Third Person Zoom In/Out:** M5 (Mouse Side Button)
+- **Simplest Horses:** H
+- **iHUD/moreHUD:** X
+- **Toggle HUD:** N
+- **Dual Wield Blocking:** V
+- **AutoHorse:** B
+- **Teleport Followers to You:** G
+- **Hotkey Reminder:** F11 
+
 ## How do I add Grass LODs?
 
 If you want to spruce up visuals without much effort, you could try adding Grass LODs. First, remove the TexGen and DynDOLOD Outputs that are currently in your Outputs Separator. Rerun TexGen, following the images below to select the Grass LOD option, and install it's zipped Output. Repeat this for DynDOLOD (Grass LOD will not be greyed [Image 2] if you do the TexGen step correctly). If you decide in the future that you want dont Grass LODs after all, simply redownload the Performance Outputs from the Nexus Page and replace the ones you have created!
@@ -114,26 +142,3 @@ Replace your ENB Section with a Community Shaders section and copy the image bel
 **As of Update 2.1 the list uses ENB Terrain Helper which is, at this time, not officially supported by Community Shaders. It is not recommended to use Community Shaders with CSVP until there is Compatibility. 
 
 ![Image]({{ site.baseurl }}/assets/csvp/enb-to-cs.png)
-
-## Can I switch to a controller?
-
-Yes there is a video in #csvp-faq which shows how to config your controller to work in this list. 
-
-## What are the hotkeys in this list?
-
-- **ENB:** SHIFT+ENTER
-- **Community Shaders:** END
-- **KreatE:** HOME
-- **Open Animation Replacer:** SHIFT+O
-- **Immersive Equipment Displays:** BACKSPACE
-- **Improved Camera SE:** SHIFT+HOME
-- **SmoothCam Toggle:** UP ARROW
-- **Switch Shoulders (*SmoothCam*):** M4 (Mouse Side Button)
-- **Third Person Zoom In/Out:** M5 (Mouse Side Button)
-- **Simplest Horses:** H
-- **iHUD/moreHUD:** X
-- **Toggle HUD:** N
-- **Dual Wield Blocking:** V
-- **AutoHorse:** B
-- **Teleport Followers to You:** G
-- **Hotkey Reminder:** F11 
