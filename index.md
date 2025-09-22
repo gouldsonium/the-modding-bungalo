@@ -26,6 +26,13 @@ The Bungalo offers support for a visual only list called NGVO which has all the 
 
 The Bungalo also has some modding guides like how to setup Wabbajack or LOD generation to help you build your own list. Afterall, the perfect list that has exactly what you want is the one you build yourself.
 
+## The Modding Bordello
+![Image]({{ site.baseurl }}/assets/themoddingbordello.png)
+
+For a while, we've had tons and tons of requests for NSFW modlists to be hosted in the Bungalo this community rated R and not XXX. In comes **Schtevie**. We have agreed to split off hosting of modlists between the 2 Discords and make Scrolls of Schtevie (which is now renamed The Modding Bordello) to be out sister Discord. This will give us a place to redirect NSFW content and host NSFW modlists while keeping the Bungalo safe for work.
+
+[Join The Modding Bordello](https://discord.gg/themoddingbordello){: .btn }
+
 ## Join the Bungalo!
 
 Want to join the best modding community? Click the button below to join.
