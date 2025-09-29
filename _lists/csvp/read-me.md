@@ -54,8 +54,8 @@ CSVP requires a mid-tier modern system to run to its fullest potential. The reco
 
 | Profile | Download Size  | Install Size | Total | Count | 
 |:-------:|:--------------:|:------------:|:-----:|:------|
-| Main    | ~135GB         | ~180GB       |~315GB | 1727 Mods, 1086  Plugins, 113 ESPs
-| PERF    | ~135GB         | ~185GB       |~320GB | 1708 Mods, 1019 Plugins, 113 ESPs
+| Main    | ~140GB         | ~190GB       |~330GB | 1800 Mods, 1172  Plugins, 122 ESPs
+| PERF    | ~142GB         | ~184GB       |~326GB | 1782 Mods, 1098 Plugins, 122 ESPs
 
 Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and CSVP.
 
@@ -153,12 +153,14 @@ Open the installation folder and double-click on the program called ModOrganizer
 >
 >The first time you open Mod Organizer 2 the CC Files will not be in their Separator. In the left panel, place them in the "CORE FILES" Separator (above the 'Cleaned Plugins' Mod so it can overwrite them), this is optional but will look cleaner.
 
+Widescreen Users should pay attention to the noted Separators and Mods to ensure everything will be correct upon loading in.
+
 Make sure the dropdown box on the right is set to 'CSVP - A NGVO Fork' and press the Run button.
 
 ----------------------------------------------------
 
 ### In-game MCM options:
-CSVP should have no required MCM options to be selected beyond the final steps above; if that is incorrect please let me know and I will fix it/post settings for the Mod in question.
+CSVP should have no required MCM options to be selected unless you are a controller user; to use a controller you will set the Dual Wield Block Key of the Valhalla Combat MCM from V to L1, and run the Controller Config (ON) recording in MCM Recorder. To disable simply run those steps backwards, see the FAQ in our Discord for video instructions if needed.
 
 You are welcome to change any/all others to achieve your desired setup.
 
