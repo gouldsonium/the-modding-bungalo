@@ -9,9 +9,9 @@ has_toc: true # toc stands for table of content
 
 **Made by TheConversation**
 
-Colloquy's Skyrim Vanilla Plus is a modlist based on the visuals offered by 'Next Generation Visual Overhaul' from Biggie_Boss.  This is my take on his baseline, it is not a one-to-one baseline as there were quite a few things changed visually to my personal tastes. This list will require a fresh install of Skyrim: Anniversary Edition, and Wabbajack Installer (Please see the Read Me for Spec Recommendations and Space Requirements). It is intended as a packaged Vanilla Plus experience that can be played immediately with minimal effort.
+Colloquy's Skyrim Vanilla Plus is a modlist based on the visuals offered by 'Next Generation Visual Overhaul' from Biggie_Boss. This list will require a fresh install of Skyrim: Anniversary Edition, and Wabbajack Installer (Please see the Read Me for Spec Recommendations and Space Requirements). It is intended as a packaged Vanilla Plus experience that can be played immediately with minimal effort.
 
-## Showcase
+## Trailer
 <div class="youtube-container">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
     src="https://www.youtube.com/embed/asuwknZghMU" 
@@ -25,11 +25,23 @@ Colloquy's Skyrim Vanilla Plus is a modlist based on the visuals offered by 'Nex
 
 ## About the List
 
-A true homebrewed Vanilla Experience - It was important to me that this list feels like something anyone can make. I did away with many of the included systems/requirements of NGVO (removed Creation Kit, no BodySlide Studio, etc) to streamline everything. This is a double edged sword, as it makes customizing the list easier in some ways but harder in others. This list has been divided and sorted into comprehensive Separators that will work seamlessly with any additions/subtractions you wish to make.  Be sure to look over any Flagged Notes on mods while customizing as they will help in knowing what needs reinstalling/patching when you make changes.
+A true homebrewed Vanilla Experience - It was important that this list feels like something anyone can make. Many of the included systems/requirements of NGVO were taken out (removed Creation Kit, no BodySlide Studio, etc) to streamline everything. This is a double edged sword, as it makes customizing the list easier in some ways but harder in others. This list has been divided and sorted into comprehensive Separators that will work seamlessly with any additions/subtractions you wish to make.  Be sure to look over any Flagged Notes on mods while customizing as they will help in knowing what needs reinstalling/patching when you make changes.
 
-I am a proud Vanilla Apologist, so the only goal for this list was a fresh coat of paint - I have added no custom followers, no new lands, and no sweeping changes to systems like World Scaling. I opted to enhance what was present; Fight through a grueling Civil War with choices and consequences, see overtime how the people of Skyrim adapt and rebuild, and choose new paths in quests that wont compromise the Dragonborn YOU want to be. Gain experience through exploration and questing, see your strength grow with a configured XP Curve, and hone your prowess on a custom difficulty scale. Thousands of options for customization, hundreds of new spells/weapons/armor, smarter Fauna & NPCs, a more tactile world and more are waiting.
+Colloquy is a proud Vanilla Apologist, so the only goal for this list was a fresh coat of paint - This means no custom followers, no new lands, and no sweeping changes to systems like World Scaling. He opted to enhance what was present; Fight through a grueling Civil War with choices and consequences, see overtime how the people of Skyrim adapt and rebuild, and choose new paths in quests that wont compromise the Dragonborn YOU want to be. Gain experience through exploration and questing, see your strength grow with a configured XP Curve, and hone your prowess on a custom difficulty scale. Thousands of options for customization, hundreds of new spells/weapons/armor, smarter Fauna & NPCs, a more tactile world and more are waiting.
 
-Enjoy the bleeding edge of Skyrim Modded Visuals with gameplay that makes you nostalgic and new additions that feel natural and integrated, all in a package that was made to be used with as little hassle as possible. CSVP is my personal modlist that I decided to share so everyone can have that 2011 feeling again without ANY labouring away in MO2 or even MCMs.
+Enjoy the bleeding edge of Skyrim Modded Visuals with gameplay that makes you nostalgic and new additions that feel natural and integrated, all in a package that was made to be used with as little hassle as possible. CSVP is Colloquy's personal modlist that he decided to share so everyone can have that 2011 feeling again without ANY labouring away in MO2 or even MCMs.
+
+## Showcase
+<div class="youtube-container">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    src="https://www.youtube.com/embed/CClrbI8RK7k" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### Disclaimer from Modlist Author
 
