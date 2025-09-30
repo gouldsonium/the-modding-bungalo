@@ -43,8 +43,6 @@ See the ReadMe for Pre Installation Steps and further instruction,
 
 The two versions are completely identical gameplay and backend systems-wise. The difference is strictly visual and performance focused; CSVP Main can use up to 10.5GB of VRAM in the most taxing areas, Performance uses downscaling and a different combo of flora mods to limit that to 7.5. As of Update 2.1 Performance is also on ENB, and FrameGen is an included Optional for BOTH versions of CSVP and still OFF by default so users can experiment for themselves post install! 
 
-![Image]({{ site.baseurl }}/assets/csvp/community-shaders.png)
-
 ## Can I use a controller?
 
 Switching to the controller config is 2 easy steps (See the video). Bind Dual Wield Block to L1 in Valhalla's MCM and activate the 'Controller Config (ON)' profile in the MCM Recorder Menu, that's it! To switch back from controller you will bind Dual Wield Block back to V, and activate the 'Controller Config (OFF)' profile.
