@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Colluquy's Guide
+title: Colloquy's Guide
 parent: Guides
 grand_parent: CSVP
 nav_order: 1
 ---
-# Colluquy's Guide
+# Colloquy's Guide
 
 ## Levelling & Early Game
 **Early game is the time to grind! Dragons wont slay themselves but you cant just rush into things...**
