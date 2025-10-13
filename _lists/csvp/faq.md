@@ -7,10 +7,13 @@ nav_order: 2
 # Frequently Asked Questions
 Please checkout these FAQs before posting your question to the discord
 
-### What is CSVP?
-CSVP is a Vanilla Focused modlist built upon the visuals in "Next Generation Visual Overhaul". It is intended as a packaged experience you can play immediately after download, but is sparing enough in sweeping overhauls to allow customization.
+## What is CSVP?
+CSVP is an Immersive, Vanilla Focused modlist built upon the visuals in "Next Generation Visual Overhaul". It is intended as a packaged experience you can play immediately after download, but is sparing enough in sweeping overhauls to allow customization.
 
 Skyrim Anniversary Edition with the full $20 upgrade is required. CSVP runs on version 1.6.1170.
+
+## How is it different from NGVO?
+NGVO is a high-end 'visual baseline' meaning it focuses on graphics and was designed to be built upon. CSVP adds hundreds of gameplay mods to enrich the experience and bring my vision for Skyrim to fruition. The list has Survival turned ON by Default and Fast Travel disabled (but still possible through an item), it is set on a scaled Master Difficulty with my custom settings for Experience gain and Level Curve. These settings are configurable with know-how but options are not neatly presented to you as this list focuses on my singular vision. The list works with the Vanilla Cart Opening but it is optional, should you choose to skip the intro you will start at the end of the Helgen cave, and a chest with starter items will be outside under a tree to your right. I have added no custom followers, no new lands, and no sweeping changes to systems like Combat and World Scaling (AKA No Requiem, no MCO, etc). I opted to enhance what was present already instead!
 
 The list is built on AE Edition but I cut out or modified a lot of the content that AE includes, either for Lore reasons or personal taste. Disabled AE Content Includes:
 - Sunder & Wraithguard
@@ -25,11 +28,9 @@ The list is built on AE Edition but I cut out or modified a lot of the content t
 - Shadowfoot Sanctum
 - Bloodchill Manor
 - Hendraheim
-- Civil War Champions (You just get the Armor in the Civil War Questline now),
+- Civil War Champions (You just get the Armor in the Civil War Questline now)
 
-I am a proud Vanilla Apologist, and the only goal for this list was a fresh coat of paint for the crowning game of my childhood. The list has Survival turned ON by Default and Fast Travel disabled (but still possible through an item), it is set on a scaled Master Difficulty with my custom settings for Experience gain and Level Curve. These settings are configurable with know-how but options are not neatly presented to you as this list focuses on my singular vision. The list works with the Vanilla Cart Opening but it is optional, should you choose to skip the intro you will start at the end of the Helgen cave, and a chest with starter items will be outside under a tree to your right. I have added no custom followers, no new lands, and no sweeping changes to systems like Combat and World Scaling (AKA No Requiem, no MCO, etc). I opted to enhance what was present already instead!
-
-### Are there multiple profiles?
+### How can I download it?
 
 CSVP comes in two versions: Main and Performance
 
@@ -43,14 +44,25 @@ See the ReadMe for Pre Installation Steps and further instruction,
 
 The two versions are completely identical gameplay and backend systems-wise. The difference is strictly visual and performance focused; CSVP Main can use up to 10.5GB of VRAM in the most taxing areas, Performance uses downscaling and a different combo of flora mods to limit that to 7.5. As of Update 2.1 Performance is also on ENB, and FrameGen is an included Optional for BOTH versions of CSVP and still OFF by default so users can experiment for themselves post install! 
 
-## Can I use a controller?
+## How do I enable Gamepad?
 
-Switching to the controller config is 2 easy steps (See the video). Bind Dual Wield Block to L1 in Valhalla's MCM and activate the 'Controller Config (ON)' profile in the MCM Recorder Menu, that's it! To switch back from controller you will bind Dual Wield Block back to V, and activate the 'Controller Config (OFF)' profile.
+Switching to the controller config is 3 easy steps (See the video). Bind Dual Wield Block to L1 in Valhalla's MCM and activate the 'Controller Config (ON)' profile in the MCM Recorder Menu, then Open & Close moreHUD's MCM, that's it! To switch back from controller you will bind Dual Wield Block back to V, and activate the 'Controller Config (OFF)' profile.
+
+<div class="youtube-container">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    src="https://www.youtube.com/embed/VxIci4aqVpg" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 See the bind maps below. Hotkeys 1-6 need to be set by the Keyboard as they are mapped but not able to be designated by the Gamepad itself.
 
 Reminder that with STB Hotkey Quick Cast you can swap between Powers and Shouts on the fly without going into menus by binding them to a hotkey!
-![Image]({{ site.baseurl }}/assets/csvp/controller.png)
+![Image]({{ site.baseurl }}/assets/csvp/controllermapcurrent.png)
 
 ## What are the hotkeys in this list?
 
@@ -69,4 +81,6 @@ Reminder that with STB Hotkey Quick Cast you can swap between Powers and Shouts 
 - **Dual Wield Blocking:** V
 - **AutoHorse:** B
 - **Teleport Followers to You:** G
+- **Photo Mode:** \
+- **Object Manipulation Overhaul:** '
 - **Hotkey Reminder:** F11 
