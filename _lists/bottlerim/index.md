@@ -5,15 +5,13 @@ nav_order: 7
 has_children: false
 has_toc: false # toc stands for table of content
 ---
-![Image]({{ site.baseurl }}/assets/bottle-lists/BottleRim.png)
+![Image]({{ site.baseurl }}/assets/bottle-lists/BottleRim_etada.png)
 
 **Made by dBottle**
 
-A total light survival SimonRim focused gameplay overhaul using Community Shaders.
+A total survival SimonRim focused gameplay overhaul using Community Shaders.
 
 ---
-
-**Support**: Join the [BottleRim Discord](https://discord.gg/bungalo)
 
 **Requirements**:
 - Skyrim SE version 1.6.1170 (latest Steam update).
@@ -36,9 +34,9 @@ A total light survival SimonRim focused gameplay overhaul using Community Shader
 ---
 
 ## Introduction
-**BottleRim** is a total gameplay overhaul modlist for Skyrim SE (1.6.1170), built around [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). Based on [Althros Dev Tools](https://github.com/Styyx1/ADT).
+**BottleRim** is a total gameplay overhaul modlist for Skyrim AE (1.6.1170), built around [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). Based on [Althros Dev Tools](https://github.com/Styyx1/ADT).
 
-This list is a SimonRim focused light survival experience.
+This list uses a heavily modified SimonRim base, MCO for third person and Sig animations for first person. The result is a super satisfying and immersive combat experience. Leveling has been modified to generally be a bit tougher as well and survival is a key part of the list.
 
 View the full mod list [here](https://loadorderlibrary.com/lists/bottlerim-2).
 
@@ -49,15 +47,15 @@ Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.
 ## System Requirements
 - **OS**: Windows 10 or 11 (no LTSC or modified versions; Linux not supported).
 - **Storage**: SSD required.
-- **Download Size**: ~96 GB.
-- **Install Size**: ~155 GB.
+- **Download Size**: ~127 GB.
+- **Install Size**: ~212 GB.
 
-| Component | Recommended (1080p) | My Specs (1440p) |
-|-----------|---------------------|------------------|
+| Component | Recommended (1080p)  | My Specs (1440p) |
+|-----------|----------------------|------------------|
 | CPU       | i5 13600k or similar | i5 13600K       |
-| GPU       | RTX 3060 or similar | RTX 4070        |
-| RAM       | 16GB or more        | 32GB            |
-| Storage   | SATA SSD            | NVMe SSD        |
+| GPU       | RTX 3060 or similar  | RTX 4070        |
+| RAM       | 16GB or more         | 32GB            |
+| Storage   | SATA SSD             | NVMe SSD        |
 
 ---
 
@@ -75,6 +73,27 @@ Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.
    - Run Skyrim SE once for graphics check.
    - Run Skyrim through steam, install ALL creation club addons. Do not ALT tab during this process.
    - If you have issues with the creation club plugins missing, I highly recommend a CLEAN install of Skyrim, including completely deleting the skyrim steam folder and uninstalling.
+
+3. **PageFile**:
+   Larger modlists require a lot more of your memory, running out of memory will result in crashes and other potential issues. Highly recommended to do this step.
+
+   To set up a Pagefile:
+
+      - Press Win Key + R
+      - Type sysdm.cpl ,3 and hit ENTER
+      - Navigate to Performance and click the box Settings
+      - Click the Advanced tab at the top
+      - Under Virtual Memory click the box Change
+      - Uncheck Automatically Manage if it is checked
+      - Select your disk drive, ideally your fastest solid state drive
+      - Click Custom Size:
+      - In the box next to Initial Size (MB), type 40960
+      - In the box next to Maximum Size (MB), type 40960
+      - Click Set.
+      - Click OK.
+      - Click Apply.
+      - Click OK.
+      - Restart your PC.
 
 ### Wabbajack Installation
 1. **Install Wabbajack**:
@@ -95,21 +114,17 @@ Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.
 
 There are a few things you can and should do. 
 
-1. Run Bethini through the MO2 dropdown and select a preset + recommended tweaks. (Do not turn of TAA, required if you use CS' DLAA or AMDs.)
+1. This is optional as the list comes with preconfigured INIs, run Bethini through the MO2 dropdown and select a preset + recommended tweaks ONLY. (Do not turn off TAA, required if you use CS' DLAA or AMDs.)
 
-2. This list comes with a preconfigured Community Shaders setup, but feel free to press the "End" key and play around with things.
-
-3. Check the "Optionals" separator in Mo2 to activate Framegen or camera headbob if you'd like.
-
-4. Open the MCM, select Bathing in Skyrim and choose to either enable or leave it disabled.
+2. Check the "Optionals" separator in Mo2, I have them enabled by default but all are safe to disable at any time. The reason for leaving them enabled is just to help those that use them not have to worry about where the plugins should go since it will already be set.
    
 ### Antivirus Exceptions
 - Add exceptions in Windows Defender for the BottleRim folder and `ModOrganizer.exe` to avoid crashes.
 - Steps: Windows Security > Virus & Threat Protection > Manage Settings > Exclusions > Add Folder > Select BottleRim folder.
 
 ### Keyboard Keybinds
-- **Community Shaders**: `End` key.
-- Other controls use vanilla Skyrim keybinds.
+- Controller support uses this layout; it is possible to reinstall the Complete Controller Setup mod to use a different layout.
+<img src="Resources/Screenshot 2025-10-25 091049.png" alt="Screenshot" width="800">
 
 ---
 
@@ -130,14 +145,19 @@ There are a few things you can and should do.
 ---
 
 ## Modifying the list
-There are a couple mods you should check out in the MCM to customize how you would like to play.
+There are a couple of mods you should check out in the MCM to customize your play style as you prefer.
 
-- Helmet Toggle 2
-- Bathing in Skyrim
+- Bathing in Skyrim 
 
-  Helmet Toggle 2 is awesome and you can set the hotkey and conditions in the MCM to whatever you'd like.
+   The list includes it but the mod needs to be enabled in the MCM if you choose to use it. Adds dirt overtime to the character and allows bathing etc.
 
-  Bathing in Skyrim comes disabled by default, some people may not want this so if you do be sure to enable it before leaving the starting cell.
+- Helmet Toggle 2 
+   
+   Helmet Toggle 2 is awesome, and you can set the hotkey and conditions in the MCM to whatever you'd like.
+
+  - Leveling Freedom
+
+  If at any point you want to adjust the amount of experience it takes to get to the next level, find this mod in the MCM. Simple to adjust the curve or simply choose an easy or more difficult preset.
 ---
 
 ## Uninstalling
