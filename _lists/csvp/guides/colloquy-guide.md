@@ -82,3 +82,12 @@ nav_order: 1
 *Bonds and Benefits* - All followers now have a hidden 'Regard' system! You have a chance to gain experience by fighting alongside a teammate that is especially proficient in a skill, and as the bond between you grows they will benefit from a boost to their morale (Fear/Frenzy spells are less effective - Rank 6) AND their stats (+25 Health and Stamina - Rank 9).
 
 *Where did they go?* - Your followers are not soulless vessels awaiting command! When you arrive to a town/city they will go off and do their own thing, meeting back up with you upon departure. If you ask a follower to wait they will only listen for 3 days max before leaving your service, as they are not fond of being forgotten. Asked a follower to wait but forgot where? Pressing G will recall all currently waiting followers to your position (will not work if they leave your service).
+
+## Main Story
+**The Main Story has seen some changes to allow more freedom...**
+
+*Room to Breathe* - The beginning of the game is a whirlwind; Escape Helgen, run to the Jarl, run through Bleak Falls, fight your first dragon, and so on. That's exhausting! Now when you bring news of Helgen to Balgruuf you're rewarded and that's it, you're free to go do other stuff (you can progress Thaneship and even the Civil War without ever learning you're Dragonborn). When you decide you'd like to progress the Story simply speak to Balgruuf and ask if you can help with anything!
+
+*I ain't doing allat* - Tired of Bleak Falls Barrow? Skip it! Instead of asking Balgruuf if you can help, ask him how he plans to protect Whiterun from dragons and it will immediately begin Dragon Rising. Retrieving the Dragonstone for Farengar is still required to become Thane of Whiterun so you can always do it later if you please.
+
+*It just works* - So Delphine was unable to traverse Bleak Falls (even praising you for doing it), yet she makes it through Ustengrav? Nah. Now at the end of Ustengrav the Horn of Jurgen Windcaller will be there, allowing you to get the third word of Unrelenting Force from the Greybeards without the Delphine detour. You will still need to see Delphine eventually to progress the story but now you will speak to Farengar, request to meet his contact, and then wait a few days for a letter.
