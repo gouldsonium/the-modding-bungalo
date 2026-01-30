@@ -7,7 +7,7 @@ nav_order: 2
 
 ![banner image]({{ site.baseurl }}/assets/ngvo/logo.png)
 
-Wabbajack Modlist Installer by **biggie_boss**.
+Wabbajack Modlist Installer by **ghoulified** & **not_docs**.
 
 <table style="border: none;">
 <tr>
