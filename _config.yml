@@ -24,9 +24,6 @@ collections:
   modding_guides:
     permalink: "/:collection/:path/"
     output: true
-  other:
-    permalink: "/:collection/:path/"
-    output: true
 
 just_the_docs:
   # Define which collections are used in just-the-docs
@@ -39,7 +36,4 @@ just_the_docs:
       nav_fold: true 
     modding_guides:
       name: Modding Guides
-      nav_fold: true
-    other:
-      name: Other
       nav_fold: true
