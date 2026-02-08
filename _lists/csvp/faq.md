@@ -10,12 +10,21 @@ Please checkout these FAQs before posting your question to the discord
 ## What is CSVP?
 CSVP is an Immersive, Vanilla Focused modlist built upon the visuals in "Next Generation Visual Overhaul". It is intended as a packaged experience you can play immediately after download, but is sparing enough in sweeping overhauls to allow customization.
 
-Skyrim Anniversary Edition with the full $20 upgrade is required. CSVP runs on version 1.6.1170.
-
+***Skyrim Anniversary Edition with the full $20 upgrade is required. CSVP runs on version 1.6.1170.***
 ## How is it different from NGVO?
-NGVO is a high-end 'visual baseline' meaning it focuses on graphics and was designed to be built upon. CSVP adds hundreds of gameplay mods to enrich the experience and bring my vision for Skyrim to fruition. The list has Survival turned ON by Default and Fast Travel disabled (but still possible through an item), it is set on a scaled Master Difficulty with my custom settings for Experience gain and Level Curve. These settings are configurable with know-how but options are not neatly presented to you as this list focuses on my singular vision. The list works with the Vanilla Cart Opening but it is optional, should you choose to skip the intro you will start at the end of the Helgen cave, and a chest with starter items will be outside under a tree to your right. I have added no custom followers, no new lands, and no sweeping changes to systems like Combat and World Scaling (AKA No Requiem, no MCO, etc). I opted to enhance what was present already instead!
 
-The list is built on AE Edition but I cut out or modified a lot of the content that AE includes, either for Lore reasons or personal taste. Disabled AE Content Includes:
+NGVO is a high-end 'visual baseline' meaning it focuses on graphics and was designed to be built upon. CSVP adds hundreds of gameplay mods to enrich the experience and bring my vision for Skyrim to fruition.
+### CSVP is about taking your time
+
+With changes in place to stretch out questlines, fast travel limited in an immersive way, and a chance to trip on rugs when moving haphazardly, everything about this list asks you to *slow down*.
+
+The game defaults to a custom scaled Master difficulty with Survival Mode ON, but this is not a hardcore list. Hunger/Warmth/Rest are all present but toned down, simply providing excuses to relax at an Inn or spend the night at home with the kids. Fast Travel is limited but the trade-off is exploration levels your character, and improvements to Carriages/Horseback/Ferries/even the landscape itself work together to make Skyrim the most explorable it's ever been. Combat starts hard but incentivizes preparation & rewards skill expression, eventually building into a late game power fantasy, and the custom level curve ensures things don't stagnate as a playthrough goes on. All settings are configurable with know-how but this list focuses on my singular vision.
+
+<ins>CSVP is intended to be used with the Vanilla Cart Opening but it is optional, should you choose to skip the intro you will start at the end of the Helgen cave, and a chest with starter items will be outside under a tree to your right</ins>.
+
+I have added no custom followers, no new lands, and no sweeping changes to systems like Combat and World Scaling (AKA No Requiem, no MCO, etc). I opted to enhance what was present already and keep Skyrim feeling like Skyrim!
+
+__The list is built on AE Edition but I cut out or modified a lot of the content that AE includes, either for Lore reasons or personal taste. Disabled AE Content Includes:__
 - Sunder & Wraithguard
 - Umbra
 - Staff of Sheogorath
@@ -42,7 +51,7 @@ Set the installation folder to be somewhere like C:\CSVP. Do not install it to y
 The download location does not have to be an SSD but it makes the install faster. The Download and Installation locations also do not have to be the same if you have storage concerns,
 See the ReadMe for Pre Installation Steps and further instruction,
 
-The two versions are completely identical gameplay and backend systems-wise. The difference is strictly visual and performance focused; CSVP Main can use up to 10.5GB of VRAM in the most taxing areas, Performance uses downscaling and a different combo of flora mods to limit that to 7.5. As of Update 2.1 Performance is also on ENB, and FrameGen is an included Optional for BOTH versions of CSVP and still OFF by default so users can experiment for themselves post install! 
+The two versions are completely identical gameplay and backend systems-wise. The difference is strictly visual and performance focused; CSVP Main can use up to 10.5GB of VRAM in the most taxing areas, Performance uses downscaling and a different combo of flora mods to limit that to 7.5. ***As of Update 2.1 Performance is also on ENB, and FrameGen is an included Optional for BOTH versions of CSVP and still OFF by default so users can experiment for themselves post install!*** 
 
 ## How do I enable Gamepad?
 
