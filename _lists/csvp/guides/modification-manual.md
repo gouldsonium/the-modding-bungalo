@@ -35,7 +35,7 @@ When you rerun the full gamut of Outputs, the following is the correct order:
 
 **<ins>NOTE:</ins>** If you are using VRAMr, disable it before running TexGen and DynDOLOD. If you are planning to precache grass or rerun ACMOS, only do it after xLODGen.
 
-You will also need to open the Outputs Separator and disable the following mods (see image). I highly recommend noting where their plugins were placed in the right pane of MO2 so you can replicate it with the Outputs you're creating.
+### You will also need to open the Outputs Separator and disable the following mods (see image). I highly recommend noting where their plugins were placed in the right pane of MO2 so you can replicate it with the Outputs you're creating.
 
 ![Image]({{ site.baseurl }}/assets/csvp/disableref.png)
 
