@@ -36,6 +36,7 @@ When you rerun the full gamut of Outputs, the following is the correct order:
 **<ins>NOTE:</ins>** If you are using VRAMr, disable it before running TexGen and DynDOLOD. If you are planning to precache grass or rerun ACMOS, only do it after xLODGen.
 
 You will also need to open the Outputs Separator and disable the following mods (see image). I highly recommend noting where their plugins were placed in the right pane of MO2 so you can replicate it with the Outputs you're creating.
+
 ![Image]({{ site.baseurl }}/assets/csvp/disableref.png)
 
 ## Synthesis
@@ -43,6 +44,7 @@ You will also need to open the Outputs Separator and disable the following mods 
 <ins>RUN SYNTHESIS FIRST</ins>. These are your final steps, so if you are adding 10 mods you will do all of this AFTER ALL TEN ARE INSTALLED not after each mod, as it essentially patches plugins to make mods 'talk' to each other correctly. The image below is what CSVP uses and they will be there when you open the program. If you get a "too many masters" error, you can split the patches up into multiple groups. Each Skyrim plugin can only have 254 plugins as its master. Synthesis has a lot of good patches and most have descriptions but these are typically on an as-needed basis when it comes to adding them. Please note that you ***are*** able to run individual patches, instead of the entire group, if you just need something specific!
 
 **When updating Synthesis, ensure in the Settings that it points to the Data folder for the modlist (e.g CSVP\Stock Game\Data)**
+
 ![Image]({{ site.baseurl }}/assets/csvp/synordernew.png)
 
 ## VRAMr
