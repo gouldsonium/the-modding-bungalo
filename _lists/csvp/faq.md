@@ -43,7 +43,7 @@ __The list is built on AE Edition but I cut out or modified a lot of the content
 
 CSVP comes in two versions: Main and Performance
 
-To download CSVP, select a version from the 'Main Files' section of my Nexus Downloads tab. That is the Wabbajack File and the only thing you personally need to download from the Nexus Page. From there you want to open Wabbajack and do the following:
+To download CSVP, select a version from the 'Main Files' section of my Nexus Downloads tab. That is the Wabbajack File and the only thing you personally need to download from the Nexus Page (If you are downloading the Main version off of Wabbajack itself, you can ignore this). From there you want to open Wabbajack and do the following:
 
 Go to 'Browse Lists', select 'Install from Disk' in the top right,
 Select the CSVP Wabbajack file you downloaded from Nexus,
@@ -72,6 +72,10 @@ See the bind maps below. Hotkeys 1-6 need to be set by the Keyboard as they are 
 
 Reminder that with STB Hotkey Quick Cast you can swap between Powers and Shouts on the fly without going into menus by binding them to a hotkey!
 ![Image]({{ site.baseurl }}/assets/csvp/controllermapcurrent.png)
+
+## Where is my HUD?
+
+CSVP has the mods 'iHUD', 'A Matter of Time', and 'moreHUD', all bound to the X Key by default. This means nearly all UI elements will be hidden unless holding X, and the crosshair will only appear when sneaking or using ranged weaponry/magic. If you do not like this simply set the three listed mods to 'Always Active' in their respective MCMs, and you will still have the N key to fully toggle the HUD on/off if you choose!
 
 ## What are the hotkeys in this list?
 
