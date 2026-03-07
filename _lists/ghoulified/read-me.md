@@ -7,7 +7,7 @@ nav_order: 1
 # Ghoulified Reality - A Modern 3BFTweaks List
 Wabbajack Modlist Installer by **Ghoulified**.
 
-![Image]({{ site.baseurl }}/assets/ghoulified/cover.png)
+![Image]({{ site.baseurl }}/assets/ghoulified/cover.webp)
 
 <table style="border: none;">
 <tr>
