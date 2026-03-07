@@ -31,7 +31,7 @@ Wabbajack Modlist Installer by **Ghoulified**.
 
 ## Preamble
 
-Ghoulified Reality is a hardcore perma-death focused modlist for The Elder Scrolls V: Skyrim Special Edition that focuses on completely overhauling the game's visuals and gameplay to create a more challenging and immersive experience. A fork of NGVO which is a visual only modlist, Ghoulified use Requiem to enhance the game for a more challenging and strategic experience, from combat to character progression. What separates this list from other Requiem lists is Ghoulified uses 3BFTweaks which makes the world more dangerous while still maintaining a sense of fairness and balance.
+Ghoulified Reality is a hardcore (optionally) perma-death focused modlist for The Elder Scrolls V: Skyrim Special Edition that focuses on completely overhauling the game’s visuals and gameplay to create a more challenging and immersive experience. A fork of NGVO which is a visual only modlist, Ghoulified use Requiem to enhance the game for a more challenging and strategic experience, from combat to character progression. What separates this list from other Requiem lists is Ghoulified uses 3BFTweaks and other addons which makes the world more dangerous while still maintaining a sense of fairness and balance.
 
 ## System Requirements
 
@@ -40,7 +40,7 @@ Ghoulified Reality is a hardcore perma-death focused modlist for The Elder Scrol
 Owing to the need to clean master files and certain errors with Wabbajack, Ghoulified Reality only supports **English Steam** versions of Skyrim Special Edition. **GOG and other Languages are not supported**.
 
 {: .warning}
-**Ghoulified Reality REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON**
+**Ghoulified Reality REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND REQUIRES THE AE DLC**
 
 ***
 
@@ -66,7 +66,7 @@ Ghoulified Reality requires a mid-tier modern system to run to its fullest poten
 | Storage | M.2 SSD
 | GPU | RTX 4070 or better/equivalent
 
-**Space required:** ~306GB Total
+**Space required:** Around 300GB Total
 
 See how to setup a page file [here](https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html)
 
@@ -152,20 +152,20 @@ You'll get a NXM pop up once MO2 is launched just hit ignore.
 Make sure the dropdown box on the right is set to `Ghoulified Reality` and press the `Run` button.
 
 ### Optional Mods
-In MO2 there is a section at the bottom labeled optional all mods in that section can be turned on or off at any time this is also where you can disable perma-death.
+In MO2 there are two sections labeled optional one for game play and one for combat animations. All mods in those sections can be turned on or off at any time this is also where you can enable perma-death.
+Mods to read up on 
 
-I have also included ultra wide support but since I don't own an ultra wide myself it may not be perfect.
+- **3BFTweaks** - I recommend you check the guide section for more information. 
+- **AD-Mortem perma-death** - This will automatically delete all saves upon dying if you enable it. 
+- **Smart Harvest NG AutoLoot** - Can be set to auto loot anything in the game when walking near it. By default it only picks up alchemy ingredients.
+- **Modex - A Mod Explorer Menu (AddItemMenu)** - This is your go to mod for testing and potentially fixing bugs in your run.
+- **SKSE Menu Framework** - A menu that controls SKSE mods. You can activate it by hitting F1 in game. This is also where you can change your FOV 
 
 ### In-game MCM options
 
 Ghoulified Reality automatically runs the mcm options for you, just stand still until you get a pop up saying it has finished.
 
 After the mcm is done open your inventory and close it to start 3BFTweaks.
-
-### Mods to read up on
-3BFTweaks - I recommend you check the guid section for more information.
-
-AD-Mortem perma-death - This will automatically delete all saves upon dying.
  
 ## Updating the modlist
 
