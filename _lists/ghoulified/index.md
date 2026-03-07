@@ -21,7 +21,7 @@ Prior to installing Ghoulifed Reality, please complete the following steps.
 - Fully disable OneDrive and any other programs which hook into user file areas.
 - Reinstall Skyrim into a location that is not Program files. Somewhere like C:\Games is a good location. If you only have one drive, look into LostDragonist’s SteamLibrary tool.
 - Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-- Launch the game to the main menu and allow it to download the free creation club addon files. DO NOT VERIFY YOUR GAME FILES
+- Launch the game to the main menu and allow it to download the creation club addon files. DO NOT VERIFY YOUR GAME FILES
 - Open your Skyrim folder (SteamLibrary\steamapps\common\ Skyrim Special Edition\Data) Delete ccbgssse037-curios.bsa & ccbgssse037-curios.
 - Relaunch Skyrim go into the creation club and redownload Rare Curios. Go back into the main menu and close the game. 
 - Download the Skyrim SE Creation Kit from Steam and run it once. 
