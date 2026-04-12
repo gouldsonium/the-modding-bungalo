@@ -88,7 +88,10 @@ Prior to installing Ghoulified Reality, please complete the following steps.
 5. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 7. Launch the game to the main menu and allow it to download the free creation club addon files. **DO NOT VERIFY YOUR GAME FILES**
-8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
+8. Open your Skyrim folder (`SteamLibrary\steamapps\common\Skyrim Special Edition\Data`) and delete `ccbgssse037-curios.bsa` & `ccbgssse037-curios.esp`.
+9. Relaunch Skyrim, go into the Creation Club, and redownload Rare Curios. Go back to the main menu and close the game.
+10. Download the [Skyrim SE Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) from Steam and run it once.
+11. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
 
 ***
 
