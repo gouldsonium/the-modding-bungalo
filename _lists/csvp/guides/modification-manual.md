@@ -33,7 +33,7 @@ When you rerun the full gamut of Outputs, the following is the correct order:
 4. TexGen                - *Billboards*
 5. DynDOLOD              - *Dynamic & Object LODs*
 
-**<ins>NOTE:</ins>** If you are using VRAMr, disable it before running TexGen and DynDOLOD. If you are planning to precache grass or rerun ACMOS, only do it after xLODGen.
+**<ins>NOTE:</ins>** If you are using VRAMr, disable it before running ParallaxGen, TexGen and DynDOLOD. If you are planning to precache grass or rerun ACMOS, only do it after xLODGen.
 
 ### You will also need to open the Outputs Separator and disable the following mods (see image). I highly recommend noting where their plugins were placed in the right pane of MO2 so you can replicate it with the Outputs you're creating.
 
@@ -67,7 +67,7 @@ The VRAMr Nexus Page includes many wonderful video guides including [one from th
 
 ## Installing New Outputs
 
-When generating your Outputs it is not as simple as running the program, closing it, and then moving on to the next. These Outputs need to be installed and there are two ways to do this;
+When generating your Outputs it is not as simple as running the program, closing it, and then moving on to the next. These Outputs need to be installed upon completion as they often build on top of each other, and there are two ways to do this;
 
 - If the Output is loose files, you will create an empty mod by right clicking at the bottom of the left pane, selecting 'Create Empty Mod', and then dragging the files into this empty mod
 - If the Output is a zipped archive, you will click the icon in the top left of MO2 (hovering over it should say 'Install a new mod from an Archive') and select the zip file.
